@@ -1,4 +1,4 @@
-This is the original data of DMQR, v-DMQR and av-DMQR.
+This is the original data of DMQR, v-DMQR and av-DMQR. The project can be found at https://github.com/Wenchao-Sun-SDU/DMQR
 
 question-physician-MTs.txt contains the question-physician id-medical terminalogy pairs.
 
