@@ -1,0 +1,5001 @@
+5000
+pain or discomfort		0
+headache		1
+chronic (years to lifelong)		2
+rare		3
+joint pain		4
+dizziness		5
+fever		6
+shortness of breath		7
+nausea		8
+diarrhea		9
+severe allergic reaction (anaphylactic shock)		10
+common		11
+abdominal pain		12
+swelling		13
+rash		14
+skin rash		15
+anemia		16
+vomiting		17
+cough		18
+fatigue		19
+primary hypertension (essential hypertension)		20
+constipation		21
+depression		22
+thrombocytopenia		23
+hypersensitivity		24
+generalized seizures in adults		25
+confusion		26
+high blood pressure (hypertension)		27
+heartburn		28
+insomnia		29
+itching or burning		30
+itchy skin		31
+abnormal heart rhythms		32
+itchy rash		33
+low blood pressure (hypotension)		34
+reduced appetite		35
+pancreatitis		36
+stevens johnson syndrome		37
+short term (days to weeks)		38
+numbness or tingling		39
+heart attack		40
+difficulty breathing		41
+loss of appetite		42
+stroke in the brain		43
+congestive heart failure		44
+clinical depression		45
+hepatotoxicity		46
+pounding heart (pulse)		47
+loss of strength		48
+angioedema		49
+diabetes		50
+complete blood count		51
+dermatitis		52
+leukopenia		53
+antibiotic		54
+infection		55
+blurred vision		56
+neutropenia		57
+photosensitivity		58
+steroids		59
+agranulocytosis		60
+aching muscles		61
+pain		62
+upper respiratory infection		63
+medium term (weeks to months)		64
+blood clot		65
+common cold		66
+anxious mood		67
+hepatitis		68
+acne		69
+cloudy or blurred vision		70
+paresthesia		71
+muscle pain		72
+dry mouth syndrome (xerostomia)		73
+sleepiness		74
+drowsiness		75
+back pain		76
+bronchospasm		77
+hiatal hernia		78
+obesity		79
+slow heart rate		80
+wheezing		81
+chest pain		82
+hives (urticaria)		83
+high blood sugar (hyperglycemia)		84
+hemolytic anemia		85
+tremor		86
+kidney failure		87
+ibuprofen		88
+acetaminophen		89
+heart failure		90
+endometriosis		91
+hydrocortisone		92
+cancer		93
+dehydration		94
+stroke		95
+painful swollen joints		96
+hiv/aids		97
+unintentional weight loss		98
+erectile dysfunction		99
+sore throat		100
+difficulty swallowing		101
+joint pains		102
+hair loss		103
+middle ear infection		104
+very common		105
+acute kidney failure		106
+rheumatoid arthritis		107
+fibromyalgia		108
+overdose		109
+scleroderma		110
+bacterial infections		111
+irritation at injection site		112
+surgery		113
+xray of chest		114
+shingles (herpes zoster)		115
+hallucinations		116
+excessive sweating		117
+rectal bleeding		118
+pneumonia		119
+passing gas		120
+flatulence		121
+alopecia		122
+peripheral neuropathy		123
+crest syndrome		124
+multiple sclerosis		125
+runny nose		126
+vaginal yeast infection		127
+rapid heart rate (pulse)		128
+low blood pressure on standing		129
+thoughts of suicide		130
+flushing		131
+nsaids		132
+change in vision		133
+meningitis		134
+nervousness		135
+hypothyroidism		136
+kidney damage		137
+urinary tract infections		138
+supportive care		139
+slow or irregular breathing		140
+aplastic anemia		141
+brain tumor		142
+low potassium (hypokalemia)		143
+seizure disorder		144
+psychoses		145
+epilepsy		146
+abnormal vaginal bleeding		147
+pimples		148
+whooping cough		149
+cigarette smoking		150
+breast cancer		151
+blood disorders		152
+illegal drug abuse		153
+breast pain		154
+inflammatory bowel disease		155
+primary affective disorder		156
+sepsis		157
+anxiety disorder		158
+melancholia		159
+sinusitis		160
+eye allergies		161
+chills		162
+loss of consciousness		163
+gastrointestinal bleeding		164
+basic metabolic panel		165
+high cholesterol		166
+diabetes mellitus		167
+asthma		168
+osteoporosis		169
+ulcerative colitis		170
+coronary artery disease		171
+weight gain		172
+migraine		173
+lupus (systemic lupus erythematosus)		174
+vision loss		175
+urinary retention		176
+lung cancer		177
+food allergy		178
+asthma (teen and adult)		179
+arthritis		180
+malaise		181
+cardiac arrest		182
+lightheadedness		183
+osteoarthritis		184
+rheumatic fever		185
+heart block		186
+naproxen		187
+sarcoidosis		188
+crohn's disease		189
+decreased taste		190
+prostate cancer		191
+balance problems		192
+hypothyroidism (adult)		193
+skin redness		194
+ear ache		195
+drug problems		196
+anxiety		197
+abnormal sense of taste		198
+west nile virus infection		199
+hyperuricemia		200
+rhabdomyolysis		201
+generalized anxiety disorder		202
+ringing in ears		203
+aspirin		204
+electrocardiogram		205
+brain infection		206
+acute sinusitis		207
+diabetes (adult onset or type  )		208
+blood clot in lung		209
+pulmonary embolism		210
+perspiration		211
+drug withdrawal		212
+atrial fibrillation		213
+gallbladder diseases		214
+glaucoma		215
+cerebral hemorrhage		216
+metronidazole		217
+cataracts		218
+lymphoma		219
+stomach ulcer		220
+autoimmune conditions		221
+shock		222
+gout		223
+red skin		224
+tuberculosis		225
+stomatitis		226
+weight changes		227
+angina		228
+endocarditis		229
+burning sensation		230
+pulmonary fibrosis		231
+esophagitis		232
+lyme disease		233
+doxycycline		234
+sickle cell disease		235
+heat stroke (hyperthermia)		236
+spinning sensation		237
+insulin resistance syndrome		238
+chronic obstructive pulmonary disease (copd)		239
+acute renal failure		240
+fracture		241
+emotional problems		242
+muscle cramps or spasms		243
+memory problems		244
+acid indigestion		245
+scarlet fever		246
+osteomyelitis (bone infection)		247
+bruising		248
+irritability		249
+dermatomyositis		250
+emotional instability		251
+liver function test		252
+encephalitis		253
+influenza		254
+agitation		255
+urinary tract infection (uti)		256
+diaphragmatic hernia		257
+hearing loss		258
+epinephrine		259
+hyperkalemia		260
+cholestatic jaundice		261
+mycobacterium tuberculosis infection		262
+gouty arthritis		263
+carpal tunnel syndrome		264
+digoxin		265
+echocardiogram		266
+difficulty concentrating		267
+thalassemia		268
+mastitis		269
+chronic sinusitis		270
+pain with urination		271
+upper respiratory tract symptom		272
+cryptococcosis		273
+bladder infection (urinary tract infection; uti)		274
+mitral valve prolapse		275
+gerd		276
+difficulty sleeping		277
+very rare		278
+neuropathy		279
+eloxatin		280
+bowel obstruction		281
+dry eyes		282
+rituxan		283
+pacerone		284
+hypoglycemic insulin reaction		285
+breast carcinoma		286
+trisenox		287
+sleep apnea		288
+urinalysis		289
+cordarone		290
+lupus		291
+retin a		292
+aids		293
+enlarged lymph nodes		294
+hyperlipidemia		295
+physical therapy		296
+muscle strain		297
+atrial flutter		298
+aortic stenosis		299
+polycystic ovary syndrome		300
+hiv		301
+dementia		302
+taxotere		303
+gemzar		304
+hydroxyurea		305
+supraventricular tachycardia		306
+gastroenteritis		307
+pulmonary hypertension		308
+liver failure		309
+breast tenderness		310
+dysfunctional uterine bleeding		311
+cushing's syndrome		312
+vaginitis		313
+tretinoin		314
+heart rhythm disorder		315
+vasculitis		316
+valvular aortic stenosis		317
+low sodium		318
+immunosuppression		319
+hydrea		320
+uterine cancer		321
+alcoholism		322
+vitamin b  deficiency		323
+ditropan		324
+bipolar disorder		325
+depakene		326
+alzheimer's disease		327
+coronary artery disease (male)		328
+mumps		329
+norpace		330
+schizophrenia		331
+allergic reaction		332
+herceptin		333
+pain on urination		334
+methylprednisolone		335
+cardiomyopathy		336
+heart diseases		337
+premenstrual syndrome (pms)		338
+painful urination		339
+toxic shock syndrome		340
+sporanox		341
+flagyl er		342
+leustatin		343
+bleeding		344
+trikacide		345
+watchful waiting		346
+iressa		347
+zevalin		348
+human immunodeficiency virus		349
+xeloda		350
+aortic regurgitation		351
+thyroid cancer		352
+quinidine sulfate		353
+phlebitis		354
+cholestasis		355
+enlarged liver		356
+valstar		357
+renova		358
+vesanoid		359
+pink eye (conjunctivitis)		360
+coma		361
+atropine		362
+aortic insufficiency		363
+chagas disease		364
+cystic fibrosis		365
+uvadex		366
+quinaglute		367
+ontak		368
+mexiletine		369
+solumedrol		370
+quinalan		371
+quinora		372
+procardia		373
+ketoconazole		374
+obstructive sleep apnea		375
+typhoid fever		376
+faslodex		377
+heavy bleeding		378
+blood or red colored urine		379
+mylocel		380
+solucortef		381
+nifedipine		382
+ectopic pregnancy		383
+asthma (child)		384
+targretin		385
+manic depressive disorder		386
+fluid retention		387
+vicoprofen		388
+rythmol		389
+aklylating agent		390
+lanoxin		391
+alcoholic hepatitis		392
+lethargy		393
+betapace		394
+procanbid		395
+dyazide		396
+sotalol		397
+neuroleptic malignant syndrome		398
+maxzide		399
+procan sr		400
+lumbar spinal stenosis		401
+bloating or abdominal fullness		402
+drug overdose		403
+optic neuritis		404
+narcotic abuse		405
+interstitial lung disease		406
+zestoretic		407
+prelone		408
+pronestyl		409
+mesnex		410
+adenocard		411
+prinzide		412
+matulane		413
+pregnancy complications		414
+uniretic		415
+sporotrichosis		416
+mood swings		417
+vaseretic		418
+medrol		419
+tambocor		420
+aldactazide		421
+insulin shock		422
+electrolyte abnormality		423
+abscess		424
+lysodren		425
+mexitil		426
+adrenal insufficiency		427
+cortef		428
+isopto atropine		429
+pericarditis		430
+depomedrol		431
+cuprimine		432
+gastrointestinal disorders		433
+skin conditions		434
+hepatitis a		435
+stomach flu		436
+digitek		437
+isopto carpine		438
+hypopigmentation		439
+pilocar		440
+lanoxicaps		441
+kenalog		442
+myocardial infarction		443
+lamisil		444
+paralytic ileus		445
+nasacort		446
+plague		447
+dtic		448
+ankylosing spondylitis		449
+hyperthyroidism		450
+conjunctivitis		451
+triamcinolone		452
+bronchitis		453
+radiation sickness		454
+bicarbonate		455
+pain medicine		456
+depression (child and adolescent)		457
+beta blocker		458
+isuprel		459
+etodolac		460
+ziac		461
+stool leaking (incontinence)		462
+aspirin poisoning		463
+flutex		464
+pelvic inflammatory disease (pid)		465
+kenacort		466
+porphyria		467
+tri nasal		468
+dystonia		469
+aristocort		470
+bone pain		471
+migranal		472
+soriatane		473
+diabetic ketoacidosis		474
+throat cancer		475
+cyclosporine		476
+stromectol		477
+depen		478
+chemical burn		479
+prostatitis		480
+dyshidrotic eczema		481
+eye irritation		482
+vitamin b		483
+serotonin syndrome		484
+guaifenesin		485
+hepatitis b		486
+ancobon		487
+adalat		488
+bloody nose		489
+azithromycin		490
+doryx		491
+tenderness to touch		492
+otitis media		493
+myopathy		494
+corzide		495
+thyroid storm		496
+nose bleeds		497
+alpha/beta blocker		498
+disorientation		499
+peptic ulcer		500
+tetany		501
+tenoretic		502
+blood in urine		503
+anti fungal drug		504
+histoplasmosis		505
+overactive thyroid		506
+hypoparathyroidism		507
+syphilis		508
+restlessness		509
+raynaud's phenomenon		510
+tendinitis		511
+vibramycin		512
+blood culture		513
+mri		514
+prandin		515
+mepron		516
+anti cell breakdown drug		517
+analgesia		518
+neurontin		519
+humibid dm		520
+diazepam		521
+cancidas		522
+hexalen		523
+reye syndrome		524
+avascular necrosis		525
+infertility		526
+humulin		527
+testosterone		528
+bird flu (avian flu)		529
+robitussin dm		530
+vfend		531
+leukemia		532
+celestone		533
+partial vision loss		534
+benign baby skin bumps		535
+tarka		536
+epiglottitis		537
+gastritis		538
+kidney diseases		539
+robitussin		540
+dhe		541
+endodan		542
+novolin		543
+percodan		544
+urinary frequency		545
+lotrel		546
+raised intracranial pressure		547
+tikosyn		548
+corneal ulcer		549
+valproic acid		550
+detrol		551
+avandia		552
+urethritis		553
+prednisolone		554
+hyperglycemia		555
+mental disorder		556
+erythrocyte sedimentation rate		557
+gris peg		558
+nasal polyps		559
+high calcium levels in blood		560
+musculoskeletal pain		561
+primary insomnia		562
+myositis		563
+biltricide		564
+lodine		565
+bupropion		566
+strep throat		567
+double vision		568
+advil		569
+elspar		570
+fluid in the lungs		571
+pediapred		572
+rituximab		573
+ct of head		574
+priapism		575
+mri of brain		576
+pseudohypoparathyroidism		577
+hyzaar		578
+polymyalgia rheumatica		579
+gastric ulcer		580
+cystic acne		581
+fulvicin u/f		582
+pentam		583
+migraine headaches		584
+skin biopsy		585
+blood vessel headache		586
+cellulitis		587
+mask of pregnancy		588
+chemotherapy		589
+glucophage		590
+nizoral		591
+bladder cancer		592
+oncaspar		593
+pentacarinat		594
+cyanide poisoning		595
+gabapentin		596
+eye laser		597
+vitamin d		598
+guaifenex la		599
+hydrochlorothiazide		600
+grifulvin v		601
+hycodan		602
+blindness		603
+flu		604
+nebupent		605
+disseminated intravascular coagulation		606
+endometrial cancer		607
+apnea		608
+cosopt		609
+malarone		610
+peg intron		611
+monodox		612
+glomerulonephritis		613
+cardene		614
+robitussin ac v		615
+lung cancer (non small cell)		616
+impotence		617
+gallstones		618
+lung cancer (small cell)		619
+hytone		620
+brain aneurysm		621
+atovaquone and proguanil		622
+geriatric sleep disorder		623
+peginterferon alfa  b		624
+talacen		625
+humalog		626
+uterine fibroids		627
+erectile failure		628
+dengue fever		629
+sunburn		630
+catapres		631
+attention deficit hyperactivity disorder (adhd)		632
+contac   hour		633
+gleevec		634
+adderall		635
+phospholine iodide		636
+respiratory failure		637
+cortaid		638
+deconsal ii		639
+digibind		640
+ritalin		641
+oxybutynin		642
+nicardipine		643
+amiodarone		644
+sular		645
+topiramate		646
+metabolic syndrome		647
+chronic pelvic pain		648
+glucagen		649
+norvasc		650
+cafergot		651
+xalatan		652
+diastat		653
+baclofen		654
+pain at injection site		655
+detached retina		656
+cortizone		657
+gonorrhea		658
+corvert		659
+ecotrin		660
+bayer		661
+minocycline		662
+actifed		663
+albenza		664
+entex		665
+benylin		666
+spondylitis		667
+felbatol		668
+hidradenitis suppurativa		669
+thin skin		670
+yodoxin		671
+allercon		672
+entex la		673
+synacort		674
+delsym		675
+dynacirc		676
+clonidine		677
+weakness		678
+empirin		679
+zorprin		680
+ergamisol		681
+mylotarg		682
+naldecon		683
+arsenic trioxide		684
+sore or burning eyes		685
+rhinitis		686
+hycort		687
+fiorinal with codeine		688
+epipen		689
+duratuss		690
+children's motrin		691
+omade		692
+dermolate		693
+burned skin (from heat or fire)		694
+psoriatic arthritis		695
+precose		696
+diiodohydroxyquin		697
+hydrocodone and ibuprofen		698
+hypertriglyceridemia		699
+oxaliplatin		700
+corticaine		701
+genetic testing		702
+cetacrot		703
+mania		704
+cort dome		705
+parkinson disease		706
+aldara		707
+itraconazole		708
+acticort		709
+robitussin pe		710
+burning eyes		711
+ovarian cyst		712
+halfprin		713
+iodoquinol		714
+pale skin		715
+phenergan vc with codeine v		716
+vision distortion		717
+triaminic dm syrup		718
+deconamine		719
+actifed with codeine v		720
+hot flashes		721
+cluster headache		722
+histussin d iii		723
+rynatan		724
+generalized weakness		725
+idiopathic intracranial hypertension		726
+robitussin dac v		727
+robitussin cf		728
+blood thinners		729
+iopidine		730
+rondec dm syrup		731
+topical steroid		732
+phenergan dextromethorphan		733
+hypothermia		734
+psoriasis		735
+intracranial hematoma		736
+clindamycin		737
+carbon monoxide poisoning		738
+children's advil		739
+excess hair		740
+infected hair follicle (folliculitis)		741
+heart conditions		742
+liver dysfunction		743
+opportunistic infections in aids		744
+orthocept		745
+bacterial skin infection		746
+aseptic meningitis		747
+thioplex		748
+tonocard		749
+stroke (hemorrhagic stroke)		750
+desogen		751
+lioresal		752
+intensol		753
+behavior problems		754
+betamethasone		755
+allergies		756
+nuprin		757
+eye disorders		758
+ct of chest		759
+comprehensive metabolic panel		760
+helicobacter pylori infection		761
+intron a		762
+mononucleosis (infectious mono)		763
+rufen		764
+electrolyte disorders		765
+aortic aneurysm (abdomen)		766
+glyset		767
+tension headache		768
+zyban		769
+peripheral vascular disease		770
+nor qd		771
+ocular migraine		772
+mononeuritis multiplex		773
+stress headache		774
+kidney infection (pyelonephritis)		775
+bretylol		776
+ethmozine		777
+gangrene of the foot		778
+revia		779
+viral pharyngitis		780
+depression (adult)		781
+anterior cruciate ligament (acl) injury		782
+tylox		783
+head injury		784
+alcohol consumption		785
+clonazepam		786
+angiotensin ii blocker		787
+androderm		788
+cipro		789
+congenital abnormalities		790
+pge		791
+plendil		792
+lead poisoning		793
+denavir		794
+docetaxel		795
+blood clot in the legs		796
+enlarged male breasts		797
+sciatica		798
+ct of abdomen		799
+sulfamylon		800
+stress		801
+insulin		802
+multiple myeloma		803
+ischemia		804
+terbinafine		805
+gynecomastia		806
+esophageal cancer		807
+muscle weakness		808
+dynacin		809
+preeclampsia		810
+micronor		811
+cerebyx		812
+kawasaki disease		813
+dry or cracking skin		814
+erytab		815
+depade		816
+chlamydia infection		817
+procainamide		818
+pregnancy		819
+gabitril		820
+dextromethorphan		821
+abilify		822
+herpes		823
+minocin		824
+gemcitabine		825
+prandase		826
+kidney stones		827
+malaria		828
+c reactive protein		829
+attention deficit hyperactivity disorder in children		830
+celiac disease		831
+asendin		832
+pepcid		833
+dovonex		834
+radiation therapy		835
+loss of coordination		836
+autism spectrum disorder		837
+olanzapine		838
+testoderm		839
+yellow eyes and skin		840
+cervicitis		841
+dry eye syndrome		842
+mustargen		843
+condylox		844
+bio statin		845
+orthocyclen		846
+elimite		847
+alphagan		848
+risperidone		849
+laryngitis		850
+infergen		851
+swollen abdomen		852
+topical anti fungus drug		853
+bacitracin		854
+sjogren syndrome		855
+eye pain		856
+astigmatism		857
+colitis		858
+kaposi's sarcoma		859
+amyloidosis		860
+mouth sores		861
+metastatic breast cancer		862
+social anxiety disorder		863
+d w		864
+mirapex		865
+permethrin		866
+aggrenox		867
+ovarian cancer		868
+agrylin		869
+levofloxacin		870
+diverticulitis		871
+diuril		872
+stomach cramps		873
+hctz		874
+dexchlorpheniramine maleate		875
+silvadene		876
+quinidine gluconate		877
+duraclon		878
+hydrocodone and acetaminophen		879
+difficulty breathing after exercise		880
+interferon alfa  b		881
+plaquenil		882
+eurax		883
+injuries and wounds		884
+alora		885
+methylphenidate		886
+maxidone		887
+spinal meningitis		888
+zyprexa		889
+zarontin		890
+calcitriol		891
+acute schizophrenia		892
+lipodystrophy		893
+snake bite		894
+respiratory tract infections		895
+silver sulfadiazine		896
+acyclovir		897
+overactive bladder syndrome		898
+nordette		899
+diabetic nerve problems		900
+stress fractures		901
+nilstat		902
+seizures (uncontrollable jerking of limbs)		903
+colorectal cancer		904
+leukeran		905
+eating disorder		906
+alcoholic liver disease		907
+thrush		908
+irritable bowel syndrome		909
+tardive dyskinesia		910
+nadostine		911
+vancomycin		912
+non small cell lung cancer		913
+biopsy		914
+major depression		915
+levora		916
+severe acute respiratory syndrome (sars)		917
+newborn and infant diseases		918
+cauda equina syndrome		919
+myasthenia gravis		920
+azmacort		921
+fioricet with codeine		922
+nonfunctional pituitary adenoma		923
+diuretic		924
+lowogestrel		925
+colon cancer		926
+stiffness or decreased movement		927
+iron deficiency anemia		928
+convulsion		929
+advicor		930
+ruptured eardrum		931
+estraderm		932
+norco		933
+sexually transmitted diseases		934
+lorcet		935
+nyaderm		936
+hypopituitarism		937
+farsightedness (hyperopia)		938
+seroquel		939
+ear infection		940
+oligohydramnios		941
+cataflam		942
+disopyramide		943
+giant cell arteritis (temporal arteritis)		944
+tazorac		945
+wellbutrin		946
+amphotericin based drug		947
+chlorothiazide		948
+cirrhosis (liver)		949
+neoral		950
+depression (postpartum)		951
+trastuzumab		952
+degenerative disc disease		953
+famotidine		954
+watery eyes		955
+zovirax		956
+gynodiol		957
+immunoglobulin		958
+uveitis		959
+hives		960
+decreased mental status		961
+tempra		962
+estrace		963
+tennis elbow		964
+parlodel		965
+visual difficulties		966
+zydone		967
+acetaminophen butalbital caffeine and codeine		968
+furosemide		969
+renal cell (kidney) cancer		970
+mevacor		971
+nalfon		972
+arterial blood gas		973
+deep venous thrombosis		974
+dramamine		975
+oxiconazole		976
+pilocarpine		977
+dimetane		978
+respiratory syncytial virus (rsv) infection		979
+loestrin		980
+ribavirin		981
+frequent urination		982
+lovastatin		983
+septic arthritis		984
+nicotrol		985
+benzac		986
+lorazepam		987
+hydronephrosis		988
+prednisone		989
+abilify discmelt		990
+dexedrine		991
+menest		992
+genora		993
+anorexia nervosa		994
+cauda equina		995
+acticin		996
+hydroxychloroquine		997
+thyroid blood tests		998
+podocon		999
+acute lymphoblastic leukemia		1000
+bromfed		1001
+levlen		1002
+hepatitis c		1003
+naltrexone		1004
+ortho novum		1005
+nix		1006
+habitrol		1007
+canker sores		1008
+ceenu		1009
+climara		1010
+autism		1011
+contact dermatitis (rash)		1012
+panadol		1013
+labyrinthitis		1014
+dextroamphetamine and racemic amphetamine		1015
+churg strauss syndrome		1016
+norethin    e		1017
+methoxsalen		1018
+menopause		1019
+podofin		1020
+vibra tabs		1021
+pegasys		1022
+food poisoning		1023
+thyroid stimulating hormone		1024
+difficulty talking		1025
+increased appetite		1026
+metformin		1027
+limbitrol		1028
+jock itch		1029
+clearasil		1030
+doxycin		1031
+transient ischemic attack		1032
+diabetic neuropathy		1033
+levaquin		1034
+glitazone drug		1035
+pulmicort turbuhaler		1036
+cladribine		1037
+propafenone		1038
+nee		1039
+reyataz		1040
+budesonide		1041
+nelova		1042
+crestor		1043
+unstable angina		1044
+neisseria gonorrhea infection		1045
+cytosar u		1046
+thoracic spinal stenosis		1047
+zaroxolyn		1048
+tylenol		1049
+cramping abdominal pain		1050
+chlor trimeton t		1051
+ludiomil		1052
+mysoline		1053
+ibritumomab tiuxetan		1054
+noroxin		1055
+anaprox		1056
+polysporin		1057
+ara c		1058
+genetic linkage		1059
+bph		1060
+sandimmune		1061
+alkeran		1062
+macular degeneration		1063
+embolus		1064
+nicoderm		1065
+penicillamine		1066
+capecitabine		1067
+flucytosine		1068
+polaramine		1069
+crixivan		1070
+rezulin		1071
+antiminth		1072
+caffeine		1073
+hypercholesterolemia		1074
+emphysema		1075
+euphoria		1076
+rtv		1077
+cervical (neck) spondylosis		1078
+nortriptyline		1079
+eryderm		1080
+oxycodone and aspirin		1081
+invirase		1082
+necrosis		1083
+ulcer		1084
+graft versus host disease		1085
+isotretinoin		1086
+ifex		1087
+attention deficit hyperactivity disorder in adults		1088
+gefitinib		1089
+skin cancer		1090
+soma compound		1091
+combipres		1092
+tes tape		1093
+denileukin diftitox		1094
+chlorthalidone		1095
+hypocalcemia		1096
+acitretin		1097
+lung diseases		1098
+thyroid nodules		1099
+hydrocholorthiazide and triamterene		1100
+gentamicin		1101
+glucometer		1102
+diascan		1103
+lisinopril and hydrocholorthiazide		1104
+chloamine		1105
+viagra		1106
+interferon alfacon		1107
+lindane		1108
+naprosyn		1109
+declomycin		1110
+rickets		1111
+sansert		1112
+langerhans cell histiocytosis		1113
+polyarteritis nodosa		1114
+aripiprazole		1115
+slow thinking		1116
+ace inhibitor		1117
+aller chlor		1118
+blood pressure medicine		1119
+vermox		1120
+mintezol		1121
+midrin		1122
+autoimmune hepatitis		1123
+infliximab		1124
+vaginal discharge		1125
+myocarditis		1126
+moexipril and hydrocholorthiazide		1127
+valrubicin		1128
+osteonecrosis		1129
+methotrexate		1130
+quetiapine		1131
+estring		1132
+amphetamine overdose		1133
+desquam		1134
+muscle spasm		1135
+flecainide		1136
+azelex		1137
+myleran		1138
+pravachol		1139
+liver diseases		1140
+paronychia		1141
+aseptic necrosis		1142
+addiction		1143
+pletal		1144
+chlorpheniramine hydrochloride		1145
+adenosine		1146
+amoxapine		1147
+painful bladder syndrome		1148
+poor coordination		1149
+enalapril and hydrocholorthiazide		1150
+ccnu		1151
+cervical cancer		1152
+naprelan		1153
+flu & cold		1154
+capozide		1155
+toxoplasmosis		1156
+spastic colon		1157
+remicade		1158
+lescol		1159
+rid lice treatment		1160
+metrogel		1161
+metoclopramide		1162
+buprenorphine		1163
+enduronyl forte		1164
+increased sweating		1165
+timolide		1166
+bromocriptine		1167
+melanoma		1168
+teczem		1169
+nitroglycerin		1170
+appendicitis		1171
+morphine		1172
+vivelle		1173
+tofranil		1174
+dehydration in adults		1175
+copegus		1176
+malathion		1177
+inderide la		1178
+minizide		1179
+propine		1180
+cymbalta		1181
+measles		1182
+tessalon perles		1183
+ambisome		1184
+barrett esophagus		1185
+dementia with lewy bodies		1186
+pyrethins and piperonyl butoxide		1187
+moduretic		1188
+lactulose		1189
+productive cough		1190
+hodgkin disease		1191
+brachial plexus nerve injury		1192
+lexxel		1193
+mesna		1194
+chlordiazepoxide and amitriptyline		1195
+rebetol		1196
+ivermectin		1197
+croup		1198
+venlafaxine		1199
+cortone		1200
+risperdal consta		1201
+felbamate		1202
+macrodantin		1203
+hospitalization		1204
+hemophilia		1205
+differin		1206
+a		1207
+flexeril		1208
+hydrocholorthiazide and spironolactone		1209
+palpitations (fluttering in chest)		1210
+polycystic kidney disease		1211
+sleep disturbance		1212
+chickenpox		1213
+oral antihistamine		1214
+rapid breathing		1215
+encephalopathy		1216
+estratab		1217
+bulging disk		1218
+juvenile rheumatoid arthritis		1219
+female urogenital diseases		1220
+heart arrhythmia		1221
+benzonatate		1222
+irregular heartbeat		1223
+osteomalacia		1224
+dicloxacillin		1225
+potassium		1226
+xylocaine		1227
+fluoxetine		1228
+apresoline		1229
+bactroban		1230
+anthra derm		1231
+subarachnoid hemorrhage		1232
+orchitis		1233
+rectal cancer		1234
+humira		1235
+cardiac arrhythmia		1236
+decreased appetite		1237
+venous insufficiency		1238
+dementia in head injury		1239
+chemical pneumonitis		1240
+valley fever (coccidioidomycosis)		1241
+fempatch		1242
+tapazole		1243
+kwell		1244
+diovan		1245
+yellow eyes		1246
+avastin		1247
+aquatensen		1248
+hyperventilating (rapid/deep breathing)		1249
+intermittent claudication		1250
+ansaid		1251
+spina bifida		1252
+lasix		1253
+mykrox		1254
+tarceva		1255
+viral infections		1256
+bexarotene		1257
+drithocreme		1258
+cyclobenzaprine hcl		1259
+thrombophlebitis		1260
+graves' disease		1261
+sildenafil		1262
+asbestosis		1263
+chronic pain		1264
+thalitone		1265
+corneal abrasion (scratch)		1266
+kaletra		1267
+peripheral arterial disease		1268
+paclitaxel		1269
+infertility in women		1270
+altocor		1271
+pamelor		1272
+endocrine disorders		1273
+pentazocine and acetaminophen		1274
+nupercainal		1275
+legionnaires' disease		1276
+enduron		1277
+head and neck cancer		1278
+dihydroergotamine		1279
+bacterial meningitis		1280
+golytely		1281
+panhypopituitarism		1282
+combination blood pressure agent		1283
+cephulac		1284
+glossitis		1285
+thiotepa		1286
+genetic disease		1287
+taxol		1288
+hygroton		1289
+atovaquone		1290
+klaron		1291
+griseofulvin		1292
+ct scan		1293
+norethindrone		1294
+prosom		1295
+depo provera		1296
+excessive caffeine use		1297
+anthralin		1298
+virazole		1299
+ec naprosyn		1300
+fulvestrant		1301
+furadantin		1302
+nephrotic syndrome		1303
+imipramine		1304
+restoril		1305
+excessive menstrual cramps		1306
+nonallergic rhinitis		1307
+brucellosis		1308
+prolonged bed rest		1309
+colyte		1310
+octreotide		1311
+warfarin		1312
+narcolepsy		1313
+fortovase		1314
+flumazenil		1315
+anti nausea drug		1316
+appetite changes		1317
+irregular periods		1318
+doxycycline monohydrate		1319
+chronulac		1320
+depakote		1321
+viracept		1322
+sqv		1323
+vascular conditions		1324
+pramipexole		1325
+cervical (neck) spinal stenosis		1326
+fluzone		1327
+recent sore throat		1328
+rotator cuff injury		1329
+torticollis		1330
+angle-closure glaucoma		1331
+septra		1332
+cavernous sinus thrombosis		1333
+fenoprofen		1334
+symmetrel		1335
+ftv		1336
+smoke exposure		1337
+imatinib		1338
+upper endoscopy		1339
+buprenex		1340
+flushield		1341
+norpramin		1342
+interstial lung disease		1343
+ultrasound of abdomen		1344
+anovulation		1345
+fosphenytoin		1346
+chronic atrial fibrillation		1347
+surmontil		1348
+allergic conjunctivitis		1349
+bowel perforation		1350
+hypertrophic cardiomyopathy		1351
+nitrofurantoin		1352
+clozapine		1353
+acromegaly		1354
+blood sugar		1355
+vistaril		1356
+septic shock		1357
+pericolace		1358
+cytarabine		1359
+infection in the blood		1360
+red (bloodshot) eyes		1361
+fatty liver		1362
+topamax		1363
+clindamycin phosphate		1364
+bacteria in the blood		1365
+ovcon		1366
+genital herpes		1367
+effexor		1368
+anal fissure		1369
+interstitial cystitis		1370
+bacterial endocarditis		1371
+synthroid		1372
+valium		1373
+tricor		1374
+solodyn		1375
+osteopenia		1376
+diphenhydramine		1377
+paget's disease of bone		1378
+quinamm		1379
+ibudone		1380
+valtrex		1381
+anaphylactic shock		1382
+fluvirin		1383
+flurbiprofen		1384
+constipation (child)		1385
+bcnu		1386
+levsin		1387
+protriptyline		1388
+heat illness		1389
+chronic fatigue syndrome		1390
+nodoz		1391
+hydrocortisone cream		1392
+dapsone		1393
+erlotinib		1394
+caspofungin		1395
+pce		1396
+medroxyprogesterone		1397
+lupron		1398
+reglan		1399
+atacand		1400
+reprexain		1401
+antipsychotics		1402
+sinemet		1403
+repaglinide		1404
+dog bites		1405
+bisoprolol and hydrocholorthiazide		1406
+epididymitis		1407
+diabetes insipidus		1408
+docusate sodium		1409
+periostat		1410
+interferon beta  a		1411
+costochondritis		1412
+sodium bicarbonate		1413
+low dose aspirin		1414
+noritate		1415
+metrocream		1416
+desipramine		1417
+reopro		1418
+esophageal varices bleeding		1419
+gliadel wafer		1420
+thyroxine		1421
+hyperparathyroidism		1422
+macrobid		1423
+coxsackie virus infection		1424
+procarbazine		1425
+mitotane		1426
+alcohol withdrawal syndrome		1427
+metrolotion		1428
+divalproex		1429
+multiple endocrine neoplasia syndromes		1430
+stavzor		1431
+amnesia		1432
+trimipramine		1433
+dextroamphetamine		1434
+muse		1435
+flu (influenza)		1436
+risperidal		1437
+dacarbazine		1438
+eryped		1439
+aggrastat		1440
+depocyt		1441
+hyperlipoproteinemia		1442
+edex		1443
+luminal		1444
+vitamin deficiency		1445
+stress bladder incontinence		1446
+vivarin		1447
+pseudogout		1448
+compression fracture		1449
+sulfamethoxazole and trimethoprim		1450
+anafranil		1451
+phenytoin		1452
+sulfatrim pediatric		1453
+yellow eyes or skin (jaundice)		1454
+tasmar		1455
+staph infection		1456
+toxic megacolon		1457
+klonopin		1458
+dantrium		1459
+restrictive cardiomyopathy		1460
+praziquantel		1461
+mood changes		1462
+provera		1463
+lumbar puncture		1464
+levoxyl		1465
+ritonavir		1466
+bevacizumab		1467
+colace		1468
+ketorolac		1469
+nfv		1470
+eeg		1471
+pellagra		1472
+extrapulmonary tuberculosis		1473
+voriconazole		1474
+alprazolam		1475
+aspirin butalbital caffeine and codeine		1476
+hypothyroidism (infant and child)		1477
+efavirenz		1478
+ceftriaxone		1479
+meningococcal disease		1480
+hepatic steatosis		1481
+sustiva		1482
+doxil		1483
+raynaud's disease		1484
+enlarged (dilated) pupils		1485
+peginterferon alfa  a		1486
+phenylephrine		1487
+atopic dermatitis		1488
+avirax		1489
+zocor		1490
+food allergies		1491
+symbyax		1492
+senokot		1493
+abdominal discomfort		1494
+ethosuximide		1495
+boil		1496
+caverject		1497
+stress incontinence		1498
+depacon		1499
+fiorinal		1500
+congested nose		1501
+requip		1502
+behavior therapy		1503
+topical antibiotic		1504
+pentamidine		1505
+penicillin		1506
+lovastatin and niacin		1507
+spontaneous pneumothorax		1508
+avonex		1509
+flolan		1510
+pharyngitis		1511
+skin abscess		1512
+maprotiline		1513
+vomiting blood		1514
+sensorcaine		1515
+jerking eye movements		1516
+tenex		1517
+pemphigus		1518
+tiagabine		1519
+no menstrual periods		1520
+nadolol and bendroflumenthiazide		1521
+tri pak		1522
+mineral oil		1523
+pilonidal cyst		1524
+benzodiazepine		1525
+doxorubicin		1526
+norflex		1527
+cat bites		1528
+amphotericin b liposomal		1529
+tolterodine		1530
+clomipramine		1531
+orphenadrine		1532
+meclofenamate		1533
+ards		1534
+indomethacin		1535
+vasodilation		1536
+bulimia		1537
+rosiglitazone		1538
+kahler disease		1539
+diltiazem		1540
+purinethol		1541
+erythromycin		1542
+cat scratch or bite		1543
+trimethoprim		1544
+dysentery		1545
+proventil		1546
+interleukin		1547
+esrd		1548
+imiquimod		1549
+lamotrigine		1550
+carisoprodol and aspirin		1551
+chest tightness		1552
+anaspaz		1553
+marcaine		1554
+nardil		1555
+mepivacaine		1556
+dipyridamole and aspirin		1557
+atenolol and chlorthalidone		1558
+cognitive impairment		1559
+meridia		1560
+human growth hormone		1561
+swimmer's ear		1562
+zanosar		1563
+dilated cardiomyopathy		1564
+miconazole		1565
+tylenol with codeine		1566
+lithobid		1567
+zanaflex		1568
+zoloft		1569
+edecrin		1570
+pleurisy		1571
+brompheniramine		1572
+corlopam		1573
+ethinyl estradiol and desogestrel		1574
+rhythm control drug		1575
+mini stroke		1576
+wygesic		1577
+visual changes		1578
+z pak		1579
+aredia		1580
+brain diseases		1581
+aventyl		1582
+anexsia		1583
+familial hypercholesterolemia		1584
+insulin lispro		1585
+mircette		1586
+pamidronate		1587
+chronic cardiomyopathy		1588
+amyotrophic lateral sclerosis (lou gehrig disease)		1589
+mouth disorders		1590
+bortezomib		1591
+micardis		1592
+darvocet n		1593
+premenstrual dysphoric disorder (pmdd)		1594
+nystagmus		1595
+barking cough		1596
+dorzolamide and timolol		1597
+bactrim		1598
+retinal detachment		1599
+sulfasalazine		1600
+ventricular septal defect		1601
+capital with codeine		1602
+valacyclovir		1603
+prozac		1604
+isoproterenol		1605
+botulinum toxin (botox) injection		1606
+renal impairment		1607
+cytomel		1608
+hypogonadism		1609
+eligard		1610
+prochlorperazine		1611
+rachitis		1612
+serevent		1613
+diabetic kidney disease		1614
+methimazole		1615
+vivactil		1616
+slipped capital femoral epiphysis		1617
+persantine		1618
+chronic lymphocytic leukemia (cll)		1619
+behcet's syndrome		1620
+primary sclerosing cholangitis		1621
+tamoxifen		1622
+glucagon		1623
+esterified estrogens		1624
+calcium channel blocker		1625
+malt lymphoma		1626
+trandolapril and verapamil		1627
+alprostadil		1628
+aspirin butalbital and caffeine		1629
+carbocaine		1630
+acetaminophen and codeine		1631
+antihistamine		1632
+indocin		1633
+acular		1634
+anasarca		1635
+conjugated estrogens		1636
+budeprion xl		1637
+lexiva		1638
+zoledronic acid		1639
+azathioprine		1640
+propoxyphene asa and caffeine		1641
+hyperstat		1642
+anagrelide		1643
+propoxyphene and acetaminophen		1644
+efv		1645
+actonel		1646
+addison's disease		1647
+brethaire		1648
+multi infarct dementia		1649
+hyoscyamine		1650
+benicar		1651
+ethinyl estradiol and norethindrone		1652
+foodborne illness		1653
+fibrocystic breasts		1654
+albendazole		1655
+newborn jaundice		1656
+non st elevation myocardial infarction		1657
+mad cow disease		1658
+cholestyramine		1659
+adriamycin		1660
+lithium carbonate		1661
+aspirin and codeine		1662
+castor oil		1663
+scaling skin		1664
+trimethoprim sulfamethoxazole		1665
+risedronate		1666
+leptospirosis		1667
+cycrin		1668
+clozaril		1669
+ana		1670
+heart murmur		1671
+revlimid		1672
+dislocated shoulder		1673
+esophageal spasm		1674
+fludara		1675
+duloxetine		1676
+brachial plexus sports injury (stinger)		1677
+oxycodone and acetaminophen		1678
+tendon rupture		1679
+whiplash		1680
+nipent		1681
+methemoglobinemia		1682
+premarin		1683
+atarax		1684
+timoptic		1685
+primary biliary cirrhosis		1686
+magnesium sulfate		1687
+combivent		1688
+dalmane		1689
+floxin		1690
+trivaris		1691
+neck pain		1692
+velcade		1693
+fudr		1694
+nicotine patch		1695
+omnicef		1696
+wound or tissue culture		1697
+ankle sprain		1698
+darvon compound   pulvules		1699
+lactose intolerance		1700
+blood transfusion		1701
+amoxicillin and clavulanate		1702
+acute atrial fibrillation		1703
+pancreatic cancer		1704
+herniated nucleus pulposus		1705
+neosynephrine		1706
+amlodipine and benazepril		1707
+methyclothiazide		1708
+ganciclovir		1709
+candidiasis		1710
+benzoyl peroxide		1711
+ruptured disk		1712
+advil pm		1713
+lamictal		1714
+panic disorder		1715
+teveten		1716
+bse		1717
+amoxicillin		1718
+creatinine		1719
+pentostatin		1720
+esophageal stricture		1721
+niaspan		1722
+pheochromocytoma		1723
+neural tube defect		1724
+quinine		1725
+muscle relaxants		1726
+zantac		1727
+robaxin		1728
+iron poor blood		1729
+slipped disc		1730
+azacitidine		1731
+prempro		1732
+phenelzine		1733
+cocaine		1734
+trazodone		1735
+celebrex		1736
+azulfidine		1737
+fainting (vasovagal syncope)		1738
+norfloxacin		1739
+saphris		1740
+dimenhydrinate		1741
+rifampin		1742
+decompression sickness		1743
+dofetilide		1744
+ilosone		1745
+perforated eardrum		1746
+hepatoma		1747
+erythema nodosum		1748
+android		1749
+aleve		1750
+premphase		1751
+clinoril		1752
+saizen		1753
+fanapt		1754
+serpasil		1755
+antabuse		1756
+integrilin		1757
+flagyl		1758
+bricanyl		1759
+hypertensive emergency		1760
+ascariasis		1761
+budeprion sr		1762
+down syndrome		1763
+zithromax		1764
+metabolic acidosis		1765
+lenalidomide		1766
+aspergillosis		1767
+gastroparesis		1768
+thrombophilia		1769
+urinary tract infections in children		1770
+timolol		1771
+mucositis		1772
+tonsillitis		1773
+hepatorenal syndrome		1774
+sneezing		1775
+incontinence		1776
+desowen		1777
+ethinyl estradiol and norgestimate		1778
+enbrel		1779
+zyflo		1780
+paxil		1781
+morning sickness		1782
+congenital heart disease		1783
+brain abscess		1784
+hydrocodone		1785
+rosuvastatin		1786
+magnesium hydroxide		1787
+diabetic eye disease		1788
+parnate		1789
+nystatin		1790
+halcion		1791
+athlete's foot		1792
+paroxetine		1793
+estrostep		1794
+atazanavir		1795
+invega		1796
+alcohol intoxication		1797
+antiviral		1798
+birth control pills		1799
+estazolam		1800
+combipatch		1801
+gingivitis		1802
+fleet enema		1803
+oxcarbazepine		1804
+intravenous fluids		1805
+eldepryl		1806
+frozen shoulder		1807
+hytrin		1808
+bursitis		1809
+alcohol dependence		1810
+vaginal atrophy		1811
+viadur		1812
+iritis		1813
+headaches & migraine		1814
+impingement syndrome		1815
+amantadine		1816
+addisonian crisis		1817
+brethine		1818
+reclast		1819
+aldesleukin		1820
+savella		1821
+acute myelogenous leukemia		1822
+photofrin		1823
+kidney function tests		1824
+fenofibrate		1825
+prolapsed bladder		1826
+arimidex		1827
+fastin		1828
+sertraline		1829
+prograf		1830
+zetia		1831
+scopolamine		1832
+throat pain		1833
+geodon		1834
+moxifloxacin		1835
+avinza		1836
+systemic inflammatory response syndrome		1837
+ativan		1838
+immunosuppressive therapy		1839
+aortic dissection		1840
+latanoprost		1841
+milk of magnesia		1842
+orapred odt		1843
+fluticasone		1844
+marfan syndrome		1845
+adalimumab		1846
+asbestos exposure		1847
+complera		1848
+proleukin		1849
+niacor		1850
+clarinex		1851
+red scaling rash		1852
+zidovudine		1853
+saquinavir		1854
+viread		1855
+proctitis		1856
+toxoplasma infection		1857
+metolazone		1858
+hellp syndrome		1859
+vulvodynia		1860
+leuprolide		1861
+losartan and hydrocholorthiazide		1862
+varivax		1863
+hyperosmolar hyperglycemic state		1864
+xray of abdomen		1865
+robinul		1866
+synarel		1867
+cholera		1868
+methocarbamol		1869
+stomach pain		1870
+parasite infections		1871
+lipitor		1872
+demeclocycline		1873
+indinavir		1874
+rubex		1875
+cleocin		1876
+ionamin		1877
+milnacipran		1878
+nisoldipine		1879
+a-fib (atrial fibrillation)		1880
+xray		1881
+rocephin		1882
+kadian		1883
+hypogammaglobulinemia		1884
+small cell lung cancer		1885
+aralen hcl		1886
+potiga		1887
+femara		1888
+relenza		1889
+iloperidone		1890
+vascular dementia		1891
+veripred		1892
+primsol		1893
+morton neuroma		1894
+itp		1895
+caprelsa		1896
+tranylcypromine		1897
+hemorrhagic stroke		1898
+pleural effusion		1899
+anthrax infection		1900
+corneal ulceration		1901
+mechlorethamine		1902
+casodex		1903
+cyclophosphamide		1904
+imuran		1905
+eryc delayed release		1906
+cozaar		1907
+ees		1908
+sandostatin		1909
+malignant melanoma		1910
+chondromalacia patella		1911
+lose weight		1912
+erythema multiforme		1913
+cerebral palsy		1914
+oral itraconazole		1915
+questran		1916
+vyvanse		1917
+baby aspirin		1918
+pristiq		1919
+sodium sulfacetamide and sulfur		1920
+methylin er		1921
+itchy eyes		1922
+pregnancy loss		1923
+hip (acetabular) labral tear		1924
+ampicillin		1925
+chlorzoxazone		1926
+anll		1927
+osteochondritis dessicans		1928
+metadate er		1929
+colonoscopy		1930
+periorbital and orbital cellulitis		1931
+cytovene		1932
+maxair		1933
+atorvastatin		1934
+ranitidine		1935
+toxic ingestions in children		1936
+cefzil		1937
+azasan		1938
+fluvastatin		1939
+desvenlafaxine		1940
+folic acid		1941
+poverty		1942
+patanol		1943
+vandetanib		1944
+calcium supplements		1945
+emycin		1946
+nipride		1947
+yeast infection (candidiasis)		1948
+bacterial infection of the vagina		1949
+long plane ride		1950
+tazarotene		1951
+isradipine		1952
+frequent ear infections		1953
+status epilepticus		1954
+eye trauma		1955
+ridaura		1956
+pravastatin		1957
+liposomal doxorubicin		1958
+hepatic encephalopathy		1959
+coreg		1960
+dupuytren's contracture		1961
+idiopathic inflammatory myopathies		1962
+prevalite		1963
+lopressor hct		1964
+dihematoporphyrin ether		1965
+zometa		1966
+retropharyngeal abscess		1967
+celecoxib		1968
+type   diabetes		1969
+restless leg syndrome		1970
+wilms tumor		1971
+liver cancer		1972
+citrucel		1973
+increased urination		1974
+talwin		1975
+inguinal hernia		1976
+apraclonidine		1977
+asenapine		1978
+parafon forte dsc		1979
+repetitive strain injury		1980
+prialt		1981
+ezogabine		1982
+surfak		1983
+dulcolax		1984
+acarbose		1985
+hashimoto's thyroiditis		1986
+chronic bronchitis		1987
+echothiophate iodide		1988
+sulfacet r		1989
+xanax		1990
+cytoxan		1991
+reserpine		1992
+groin hernia		1993
+tetralogy of fallot		1994
+augmentin		1995
+sexually transmitted infections		1996
+genital warts		1997
+welchol		1998
+behavioral changes		1999
+streptomycin		2000
+digeorge syndrome		2001
+zonisamide		2002
+ssri		2003
+ex lax		2004
+tetracycline		2005
+ptu		2006
+avapro		2007
+cotrim		2008
+accolate		2009
+simcor		2010
+votrient		2011
+rapamune		2012
+chronic granulomatous disease		2013
+ziconotide		2014
+prion diseases		2015
+recent dental procedure		2016
+cytarabine liposomal		2017
+adenocarcinoma		2018
+oramorph sr		2019
+metadate cd		2020
+bacitracin ointment		2021
+terazosin		2022
+ehrlichiosis		2023
+strattera		2024
+pentazocine		2025
+pfizerpen		2026
+cascara		2027
+lipid panel		2028
+propranolol		2029
+inflammation of the spinal cord		2030
+paliperidone		2031
+flector patch		2032
+boniva		2033
+valvular heart diseases		2034
+adcetris		2035
+ifosfamide		2036
+pressure or heaviness		2037
+inlyta		2038
+sulindac		2039
+vitrasert		2040
+aclovate		2041
+corneal inflammation		2042
+glycerin		2043
+plantar fasciitis		2044
+valsartan		2045
+temazepam		2046
+cough suppressant		2047
+lung abscess		2048
+diastolic heart failure		2049
+dilantin		2050
+remular s		2051
+baby drug withdrawal		2052
+sprycel		2053
+pelvic pain		2054
+pleuritis		2055
+lithane		2056
+altretamine		2057
+erythrocin stearate filmtab		2058
+cholangiocarcinoma		2059
+dhpg		2060
+zoladex		2061
+tenofovir		2062
+beclomethasone		2063
+minipress		2064
+bone diseases		2065
+diabetic nephropathy		2066
+diabetic kidney problems		2067
+lotensin hct		2068
+mitral regurgitation		2069
+ethinyl estradiol		2070
+eye infections		2071
+rigors		2072
+conjugated estrogens and medroxyprogesterone		2073
+bronchodilator		2074
+dasatinib		2075
+nafcillin		2076
+jevtana		2077
+wernicke syndrome		2078
+tolmetin		2079
+chlorambucil		2080
+recent travel		2081
+triazolam		2082
+acetazolamide		2083
+eskalith		2084
+ziprasidone		2085
+immune diseases		2086
+daraprim		2087
+tysabri		2088
+anastrozole		2089
+axitinib		2090
+lactase deficiency		2091
+aldactone		2092
+electromyography		2093
+skin blisters		2094
+etanercept		2095
+coptin		2096
+carbidopa and levodopa		2097
+ocella		2098
+coagulation profile		2099
+ergotamine and caffeine		2100
+invega sustenna		2101
+syncope		2102
+soma		2103
+denosumab		2104
+blue colored skin		2105
+sclerosing cholangitis		2106
+lisdexamfetamine		2107
+dislocated elbow		2108
+copaxone		2109
+mucormycosis		2110
+esgic		2111
+pancytopenia		2112
+sorafenib		2113
+astrocytoma		2114
+liquid pred		2115
+tobramycin		2116
+primidone		2117
+paraflex		2118
+rela		2119
+pazopanib		2120
+dutoprol		2121
+bee or wasp stings		2122
+voltaren		2123
+loniten		2124
+desoxyn		2125
+estradiol and norethindrone		2126
+eyelid inflammation (blepharitis)		2127
+truvada		2128
+ms contin		2129
+alcohol poisoning		2130
+premature ejaculation		2131
+selzentry		2132
+epoprostenol		2133
+nebcin		2134
+prepidil		2135
+cytospaz		2136
+precocious puberty		2137
+steroid shot		2138
+short bowel syndrome		2139
+deltasone		2140
+fioricet		2141
+caduet		2142
+mafenide		2143
+carisoprodol		2144
+syeda		2145
+knee meniscus tear		2146
+phenobarbital		2147
+blenoxane		2148
+capoten		2149
+deferoxamine		2150
+axid		2151
+dextromethorphan cough syrup		2152
+schistosomiasis		2153
+locoid		2154
+ibandronate		2155
+aromasin		2156
+arthrotec		2157
+adenoiditis		2158
+dehydration (children)		2159
+staphylococcal infection		2160
+gamastan		2161
+demulen		2162
+desferal		2163
+vimovo		2164
+letrozole		2165
+polymyositis		2166
+leflunomide		2167
+tasigna		2168
+accuretic		2169
+bronchiolitis		2170
+adhesive capsulitis of shoulder		2171
+navelbine		2172
+everolimus		2173
+albuterol		2174
+calcipotriene		2175
+aspiration		2176
+viral meningitis		2177
+visible deformity		2178
+vinorelbine		2179
+maraviroc		2180
+vistide		2181
+foreign object in the eye		2182
+cutivate		2183
+acute tubular necrosis		2184
+keppra		2185
+small bowel obstruction		2186
+paraplatin		2187
+tequin		2188
+retrovir		2189
+cilostazol		2190
+isocarboxazid		2191
+glatiramer		2192
+hemolytic uremic syndrome		2193
+lopinavir and ritonavir		2194
+lithonate		2195
+cold sore		2196
+mupirocin		2197
+rosacea		2198
+colchicine		2199
+ovral		2200
+metoprolol and hydrocholorthiazide		2201
+protein in urine		2202
+sirolimus		2203
+dysautonomia		2204
+schizoaffective disorder		2205
+mri of head		2206
+tightness		2207
+lamivudine		2208
+ethacrynic acid		2209
+adhesive capsulitis		2210
+norvir		2211
+tolcapone		2212
+rocaltrol		2213
+brentuximab vedotin		2214
+cabazitaxel		2215
+epivir		2216
+nelfinavir		2217
+nexavar		2218
+acoustic neuroma		2219
+poor eating		2220
+platinol aq		2221
+arava		2222
+alupent		2223
+increased skin pigmentation		2224
+poor nutrition		2225
+carvedilol		2226
+daypro		2227
+tramadol		2228
+erythromycin ethyl succinate		2229
+cancer drug		2230
+shaken baby syndrome		2231
+dehydration in children		2232
+cervidil		2233
+bleomycin		2234
+hydrocephalus		2235
+leishmaniasis		2236
+foscavir		2237
+flurazepam		2238
+painful joints		2239
+carotid artery disease		2240
+less frequent urination		2241
+micatin		2242
+diamox		2243
+blocked bowels		2244
+achlorhydria		2245
+molar pregnancy		2246
+placental abruption		2247
+postconcussive syndrome		2248
+acetaminophen butalbital and caffeine		2249
+pulmonary function test		2250
+tegretol		2251
+erythromycin estolate		2252
+zinc deficiency		2253
+ketalar		2254
+ezetimibe		2255
+florinef		2256
+erythromycin stearate		2257
+earwax blockage		2258
+xalkori		2259
+creatine kinase		2260
+luvox		2261
+personality disorder		2262
+asparaginase		2263
+superior vena cava syndrome		2264
+gaucher disease		2265
+niacin		2266
+exemestane		2267
+transverse myelitis		2268
+podofilox		2269
+migraine in adults		2270
+bone marrow biopsy		2271
+nasonex		2272
+levetiracetam		2273
+aggressive behavior		2274
+trichinellosis		2275
+large spleen		2276
+bexxar		2277
+malignant hyperthermia		2278
+beclovent		2279
+fluid in the abdomen		2280
+feldene		2281
+jet lag		2282
+compazine		2283
+infectious mononucleosis		2284
+salsalate		2285
+nilotinib		2286
+carmustine		2287
+miglitol		2288
+bronchiectasis		2289
+whiplash injury		2290
+meloxicam		2291
+sibutramine		2292
+mycamine		2293
+fluvoxamine		2294
+lomustine		2295
+vytorin		2296
+duramorph		2297
+exelon		2298
+thalidomide		2299
+atomoxetine		2300
+propylthiouracil		2301
+decreased urination		2302
+t		2303
+st elevation myocardial infarction		2304
+ischemic bowel disease		2305
+repetitive motion injuries		2306
+trexall		2307
+extra saliva		2308
+turf toe		2309
+meclomen		2310
+chancroid		2311
+group b strep infection		2312
+timentin		2313
+msir		2314
+salflex		2315
+clarithromycin		2316
+hydromorphone		2317
+otitis interna		2318
+urine drug screen		2319
+temporomandibular joint syndrome (tmj)		2320
+plantar warts		2321
+ropinirole		2322
+hep c		2323
+soma compound with codeine		2324
+angiitis		2325
+bone cancer		2326
+desmopressin		2327
+benazepril and hydrocholorthiazide		2328
+allopurinol		2329
+lazy eye		2330
+brevicon		2331
+colon polyps		2332
+cryoglobulinemia		2333
+congenital adrenal hyperplasia		2334
+ortho tri cyclen		2335
+aranesp		2336
+roxanol		2337
+mometasone		2338
+ovrette		2339
+keflex		2340
+bladder diseases		2341
+candesartan		2342
+methyltestosterone		2343
+safyral		2344
+diltia xt		2345
+biliary tract diseases		2346
+posterior cruciate ligament (pcl) injury		2347
+cjd		2348
+lexapro		2349
+mercaptopurine		2350
+antiinflammatory		2351
+afinitor		2352
+mucinex		2353
+paliperidone palmitate		2354
+banzel		2355
+noxafil		2356
+hypertrophic obstructive cardiomyopathy		2357
+polyethylene glycol		2358
+astramorph		2359
+paralysis		2360
+sunitinib		2361
+chronic myelogenous leukemia		2362
+natalizumab		2363
+azelaic acid		2364
+desyrel		2365
+vertebral compression fracture (thoracic)		2366
+duragesic		2367
+leaking urine		2368
+difficulty starting urine stream		2369
+digoxin immune fab		2370
+tranxene		2371
+aygestin		2372
+famvir		2373
+wilson's disease		2374
+arbinoxa		2375
+simvastatin and niacin		2376
+azidothymidine		2377
+gamimune		2378
+pegaspargase		2379
+tinea		2380
+micafungin		2381
+blood smear		2382
+lomotil		2383
+bacterial skin diseases		2384
+cat scratch fever		2385
+xgeva		2386
+mobic		2387
+cytotec		2388
+sutent		2389
+felodipine		2390
+misoprostol		2391
+urticaria and angioedema		2392
+prazosin		2393
+salmonella infection		2394
+darbepoetin alfa		2395
+testicular cancer		2396
+mirtazapine		2397
+colestid		2398
+promethazine		2399
+selegiline		2400
+laxative		2401
+epoetin alfa		2402
+exercise or physical activity		2403
+antivert		2404
+thyrolar		2405
+vasocon		2406
+polycythemia vera		2407
+disalcid		2408
+ventricular tachycardia		2409
+large bowel obstruction		2410
+myelofibrosis		2411
+diclofenac and misoprostol		2412
+failure to thrive		2413
+low back pain		2414
+ticarcillin clavulanate		2415
+posaconazole		2416
+valcyte		2417
+guanfacine		2418
+stalevo		2419
+carisoprodol aspirin and codeine		2420
+bicalutamide		2421
+tiazac		2422
+ibutilide fumarate		2423
+maxidex		2424
+fentanyl		2425
+antiphospholipid syndrome		2426
+sonogram		2427
+salazopyrin en tabs		2428
+complex regional pain syndrome		2429
+traumatic brain injury		2430
+prolixin		2431
+coumadin		2432
+bone loss		2433
+antidepressants		2434
+bunion		2435
+rheumatrex		2436
+meniere's disease		2437
+methamphetamine		2438
+ketoprofen		2439
+down syndrome (trisomy  )		2440
+tositumomab		2441
+yasmin		2442
+clorazepate		2443
+motion sickness		2444
+chantix		2445
+tumor lysis syndrome		2446
+cefdinir		2447
+statins		2448
+etoposide		2449
+beyaz		2450
+small intestine cancer		2451
+vision changes		2452
+glycopyrrolate		2453
+kwashiorkor		2454
+azt		2455
+abetalipoproteinemia		2456
+bloody stool		2457
+psychotherapy		2458
+gianvi		2459
+leg pain		2460
+brittle bone disease		2461
+serum sickness		2462
+silent thyroiditis		2463
+galantamine		2464
+sublimaze		2465
+temozolomide		2466
+methazolamide		2467
+dantrolene		2468
+zarah		2469
+temodar		2470
+blood urea nitrogen		2471
+rotadisk inhaler		2472
+q fever		2473
+cyproheptadine hydrochloride		2474
+razadyne er		2475
+primary lateral sclerosis		2476
+vaginal bleeding		2477
+waldenstrom macroglobulinemia		2478
+blocadren		2479
+altitude illness		2480
+yaz		2481
+takayasu arteritis		2482
+melphalan		2483
+concussion		2484
+vincristine		2485
+penciclovir		2486
+cyst		2487
+halog		2488
+vanceril		2489
+trinessa		2490
+desonide		2491
+vestura		2492
+sustained ventricular tachycardias		2493
+tooth abscess		2494
+keppra xr		2495
+chibroxin		2496
+herpes stomatitis		2497
+inhaled steroid		2498
+nursemaid elbow		2499
+zyloprim		2500
+gammar		2501
+albalon		2502
+codeine sulfate		2503
+frostbite		2504
+fludarabine		2505
+modafinil		2506
+topicort		2507
+orbital cellulitis		2508
+sandoglobulin		2509
+febrile neutropenia		2510
+cholesterol lowering drug		2511
+menstrual cramps (dysmenorrhea)		2512
+dilacor xr		2513
+abelcet		2514
+amebiasis		2515
+crizotinib		2516
+giant cell arteritis		2517
+demadex		2518
+amphotec		2519
+loryna		2520
+metatarsalgia		2521
+salivary gland infection		2522
+topotecan		2523
+alcohol withdrawal (delirium tremens)		2524
+trichinella spiralis infection		2525
+bravelle		2526
+floxuridine		2527
+vigabatrin		2528
+rifadin		2529
+herpes simplex		2530
+rivastigmine		2531
+benign prostatic hyperplasia		2532
+angeliq		2533
+ciprofloxacin		2534
+loss of temper		2535
+voice disorders		2536
+ricin poisoning		2537
+nitroprusside		2538
+remeron		2539
+overuse syndrome		2540
+clorpres		2541
+lidex		2542
+dyssomnias in children		2543
+ingrown hair		2544
+spinal compression fracture		2545
+head lice		2546
+prefest		2547
+periactin		2548
+betaseron		2549
+hycamtin		2550
+drooping eyelid		2551
+emadine		2552
+mydfrin		2553
+ethinyl estradiol and levonorgestrel		2554
+telmisartan		2555
+hereditary lysosomal storage diseases		2556
+simvastatin		2557
+invanz		2558
+cellcept		2559
+diazoxide		2560
+benzathine penicillin		2561
+breast infection		2562
+prevpac		2563
+lyrica		2564
+zofran		2565
+african american heritage		2566
+legionellosis		2567
+red eye (single)		2568
+purinol		2569
+cmv infection		2570
+tri levlen		2571
+cimzia		2572
+mesothelioma		2573
+parasomnias in children		2574
+bupivacaine		2575
+linezolid		2576
+theracys		2577
+busulfan		2578
+norlutate		2579
+naphcon		2580
+nolvadex		2581
+condylomata acuminata		2582
+bendamustine		2583
+tavist		2584
+triphasil		2585
+tizanidine		2586
+frontotemporal dementia		2587
+tri norinyl		2588
+spinal tumor		2589
+theophylline		2590
+palgic		2591
+mountain sickness		2592
+ezetimibe and simvastatin		2593
+toxemia		2594
+ticlid		2595
+trivora		2596
+bleeding in eye		2597
+reclipsen		2598
+counseling		2599
+apri		2600
+cenestin		2601
+guaifenesin and dextromethorphan		2602
+adapalene		2603
+ear canal infection		2604
+guillain barre syndrome		2605
+nembutal		2606
+oxaprozin		2607
+apokyn		2608
+actiq		2609
+urinary incontinence (leaking)		2610
+dibenzyline		2611
+mouth cancer		2612
+sickle cell crisis		2613
+ringworm		2614
+interferon beta  b		2615
+activella		2616
+fentanyl oralet		2617
+fentanyl citrate		2618
+fungal meningitis		2619
+ringworm of scalp		2620
+olopatadine		2621
+upper respiratory tract infection		2622
+rowasa		2623
+cardura		2624
+diphtheria		2625
+biaxin		2626
+hallux valgus		2627
+renal tubular acidosis		2628
+latuda		2629
+combivir		2630
+glucostix		2631
+dialysis		2632
+acute intermittent porphyria		2633
+phentermine		2634
+ethambutol		2635
+scoliosis		2636
+necrotizing fasciitis		2637
+chronic pancreatitis		2638
+kidney cancer		2639
+cromolyn		2640
+ultram		2641
+meclizine		2642
+cholecystitis		2643
+noctec		2644
+olmesartan		2645
+tadalafil		2646
+ventricular fibrillation		2647
+zdv		2648
+focal segmental glomerulosclerosis		2649
+oncovin		2650
+captopril		2651
+cholangitis		2652
+avolsulfon		2653
+anti itch cream		2654
+lifestyle changes		2655
+ak con		2656
+oxycodone		2657
+myambutol		2658
+lotrisone		2659
+brimonidine		2660
+crotamiton		2661
+mimvey		2662
+asthma beta receptor stimulator		2663
+leukotriene inhibitor		2664
+rocky mountain spotted fever		2665
+diastix		2666
+tsc		2667
+pernicious anemia		2668
+mycophenolate mofetil		2669
+fenoldopam		2670
+premature ovarian failure		2671
+garamycin		2672
+clinitest		2673
+clinistix		2674
+nafarelin		2675
+sumatriptan		2676
+cidofovir		2677
+emoquette		2678
+ixempra		2679
+piroxicam		2680
+sudden urge to urinate		2681
+chemstrip bg		2682
+cardiazem		2683
+kelnor		2684
+dermatop		2685
+enjuvia		2686
+symbicort		2687
+bloody or red colored stools		2688
+auranofin		2689
+kyprolis		2690
+meningioma		2691
+dextrostix		2692
+urine culture		2693
+hypoxia		2694
+sprains and strains		2695
+anti anxiety drug		2696
+apomorphine		2697
+didanosine		2698
+rescriptor		2699
+anti migraine drug		2700
+lopid		2701
+viral gastroenteritis in adults		2702
+swollen belly		2703
+rabies		2704
+neurosyphilis		2705
+oxygen supplementation		2706
+prothrombin time		2707
+videx		2708
+advair diskus		2709
+nesacaine		2710
+cyclocort		2711
+weeks pregnant		2712
+bursitis (hip)		2713
+black tar-colored stools		2714
+alimta		2715
+norovirus infection		2716
+mirena		2717
+galantamine hydrobromide		2718
+chloroquine hydrochloride		2719
+terbutaline		2720
+coxiella burnetii infection		2721
+zestril		2722
+corn or callus		2723
+locholest		2724
+sulfadiazine		2725
+vertebral compression fracture (lumbar)		2726
+lamivudine and zidovudine		2727
+ferrlecit		2728
+sodium sulfacetamide		2729
+membranous nephropathy		2730
+daptomycin		2731
+combination		2732
+westcort		2733
+burning with urination		2734
+dyskinesia		2735
+neurologic problems		2736
+butisol		2737
+montelukast		2738
+transderm scop		2739
+sectral		2740
+foot and ankle conditions		2741
+carfilzomib		2742
+delirium		2743
+lovenox		2744
+elidel		2745
+listeria		2746
+abdominal abscess		2747
+rsv		2748
+eprosartan		2749
+generalized seizures in children		2750
+pediacare infant decongestant drops		2751
+innohep		2752
+epilepsy (temporal lobe)		2753
+porphyria cutanea tarda		2754
+azelastine		2755
+single phase contraceptive		2756
+torisel		2757
+dextrose		2758
+previfem		2759
+nicorette		2760
+intussusception		2761
+mental retardation		2762
+pharmacotherapy		2763
+roxicodone		2764
+follitropin alfa		2765
+optimine		2766
+zanamivir		2767
+valganciclovir		2768
+extavia		2769
+ixabepilone		2770
+levonorgestrel		2771
+dental abscess		2772
+vasopressors		2773
+ewing's sarcoma		2774
+gemfibrozil		2775
+immunocompromised		2776
+neupro		2777
+subacute granulomatous thyroiditis		2778
+vaprisol		2779
+cooley's anemia		2780
+tropical sprue		2781
+mouth ulcers		2782
+nilandron		2783
+tocainide		2784
+minoxidil		2785
+avandaryl		2786
+vectibix		2787
+tourette syndrome		2788
+fluconazole		2789
+parcopa		2790
+pyridostigmine		2791
+dacogen		2792
+ofloxacin		2793
+swine flu		2794
+botulinum poisoning		2795
+diverticulosis		2796
+tamiflu		2797
+personality changes		2798
+aricept		2799
+prinivil		2800
+amphotericin b lipid		2801
+beta thalassemia		2802
+bacitracin and polymyxin		2803
+diprivan		2804
+ultrasound of kidneys		2805
+aptivus		2806
+patent ductus arteriosus		2807
+eye injury		2808
+hand and finger conditions		2809
+loss of vision		2810
+heparin		2811
+mycobacterium avium intracellulare		2812
+topical terbinafine		2813
+dysphoria		2814
+atrioventricular block		2815
+haloperidol		2816
+carotid artery stenosis		2817
+phenergan		2818
+liver abscess		2819
+exelon patch		2820
+torsion of testis		2821
+salmon calcitonin		2822
+tolnaftate		2823
+ranexa		2824
+beconase		2825
+akathisia		2826
+crackles in lungs		2827
+male pattern baldness		2828
+pontiac fever		2829
+anzemet		2830
+irinotecan		2831
+hsv		2832
+emtriva		2833
+paroxysmal nocturnal hemoglobinuria		2834
+pregabalin		2835
+singulair		2836
+carbinoxamine		2837
+haldol		2838
+psittacosis		2839
+hiv test		2840
+opioid pain medicines		2841
+asacol		2842
+albumin		2843
+pentasa		2844
+lopressor		2845
+terbinafine topical cream		2846
+depodur		2847
+doxepin		2848
+decongestant		2849
+temsirolimus		2850
+baker's cyst		2851
+yocon		2852
+phenurone		2853
+tricuspid stenosis		2854
+antiparasite drug		2855
+cyclessa		2856
+decadron		2857
+diabetes onset during pregnancy		2858
+videx ec		2859
+epogen		2860
+focalin		2861
+topical anti viral drug		2862
+cryptococcus		2863
+psoriasis & eczema		2864
+etopophos		2865
+decitabine		2866
+trilegest fe		2867
+miacalcin		2868
+cosmegen		2869
+mannitol		2870
+hemochromatosis		2871
+fragmin		2872
+petechiae		2873
+dinoprostone		2874
+slophyllin		2875
+elixophyllin		2876
+cefprozil		2877
+iv drug use		2878
+ak dex		2879
+infected insect bite		2880
+juvenile diabetes		2881
+prevnar		2882
+liothyronine		2883
+contact urticaria		2884
+advair hfa		2885
+tirofiban		2886
+babesiosis		2887
+joint swelling		2888
+cefotetan		2889
+cyclopentolate		2890
+oxyir		2891
+caziant		2892
+light sensitivity		2893
+obsessive compulsive personality disorder		2894
+stomach flu (viral gastroenteritis)		2895
+tolectin		2896
+tylenol pm		2897
+increased thirst		2898
+trizivir		2899
+pyrimethamine		2900
+epidural abscess		2901
+urofollitropin		2902
+tipranavir		2903
+bipolar disorder in adults		2904
+mesantoin		2905
+animal bite		2906
+viorele		2907
+acidosis		2908
+emtricitabine		2909
+velivet		2910
+glucotrol		2911
+wytensin		2912
+levamisole		2913
+bretylium tosylate		2914
+vitamin c deficiency		2915
+delavirdine		2916
+kariva		2917
+peganone		2918
+tiamate		2919
+turner syndrome		2920
+goserelin		2921
+podophyllin		2922
+moricizine		2923
+afluria		2924
+viibryd		2925
+protonix		2926
+celexa		2927
+loperamide		2928
+shin splints		2929
+leucovorin		2930
+fosamax		2931
+wind exposure		2932
+docusate sodium and casanthranol		2933
+inversine		2934
+gemtuzumab ozogamicin		2935
+dietary changes		2936
+diabetes drug		2937
+alagille syndrome		2938
+sodium ferric gluconate		2939
+nulecit		2940
+urinary obstruction		2941
+elocon		2942
+mesenteric lymphadenitis		2943
+albuterol and ipratropium		2944
+flumadine		2945
+cardiac tamponade		2946
+alvesco		2947
+ciclesonide		2948
+oxyfast		2949
+azurette		2950
+velocardiofacial syndrome		2951
+guaifenesin and codeine		2952
+ranolazine		2953
+vincasar pfs		2954
+empyema		2955
+occupational therapy		2956
+pseudoephedrine guaifenesin and codeine		2957
+pseudoephedrine and hydrocodone		2958
+cloderm		2959
+cordran		2960
+inderal		2961
+malignant mesothelioma		2962
+salmeterol		2963
+rotigotine		2964
+nitroglyn		2965
+phenylpropanolamine and chlorpheniamine		2966
+testicular torsion		2967
+tc		2968
+tularemia		2969
+metallic taste in mouth		2970
+legs cramping		2971
+ankle arthritis		2972
+zileuton		2973
+dopram		2974
+varicose veins		2975
+vimpat		2976
+provenge		2977
+craniopharyngioma		2978
+etibi		2979
+lansoprazole amoxicillin and clarithromycin		2980
+fosamprenavir		2981
+fluocinonide		2982
+medullary sponge kidney		2983
+abnormal gait		2984
+pseudoephedrine and triprolidine		2985
+difficulty moving joint		2986
+atypical pneumonia		2987
+cholestasis of pregnancy		2988
+macugen		2989
+imodium		2990
+femhrt		2991
+slurred speech		2992
+digoxin overdose		2993
+vasopressin		2994
+certolizumab pegol		2995
+enfuvirtide		2996
+trelstar		2997
+phenylpropanolamine		2998
+zerit		2999
+hepatic abscess		3000
+abciximab		3001
+balanoposthitis		3002
+phenylephrine chlorpheniamine and pyrilamine		3003
+goiter		3004
+infection of abdominal lining		3005
+abacavir lamivudine zidovudine		3006
+pimecrolimus		3007
+dmd		3008
+famciclovir		3009
+hoarse voice		3010
+lurasidone		3011
+keratitis		3012
+cyclic vomiting syndrome		3013
+long qt syndrome		3014
+chiari malformation		3015
+zollinger ellison syndrome		3016
+compulsive behavior		3017
+exforge hct		3018
+spironolactone		3019
+ketamine		3020
+pseudoephedrine and triprolidine and codeine		3021
+mentax		3022
+prostigmin		3023
+male infertility		3024
+bitter/acid taste in mouth		3025
+diaper rash		3026
+bladder stones		3027
+synagis		3028
+actron		3029
+lumbar radiculopathy		3030
+duodenal ulcer		3031
+camptosar		3032
+conivaptan		3033
+alomide		3034
+pseudoephedrine and chlorpheniamine		3035
+actoplus met xr		3036
+vilazodone hydrochloride		3037
+pseudoephedrine and guaifenesin		3038
+acetaminophen and hydrocodone		3039
+ddavp		3040
+actoplus met		3041
+juvenile idiopathic arthritis		3042
+acam		3043
+quaternary syphilis		3044
+promethazine and dextromethorphan		3045
+pseudoephedrine carbinoxamine and dextromethorphan		3046
+phenylpropanolamine chlorpheniamine and dextromethorphan		3047
+motofen		3048
+mestinon		3049
+pemetrexed		3050
+stool culture		3051
+oxycontin		3052
+phenylpropanolamine and guaifenesin		3053
+paroxysmal atrial tachycardia		3054
+colesevelam		3055
+phenylephrine promethazine and codeine		3056
+goodpasture syndrome		3057
+abnormal vaginal discharge		3058
+acute cholecystitis		3059
+heptovir		3060
+tabloid		3061
+naftin		3062
+procrit		3063
+pitressin		3064
+zyvox		3065
+cardiac catheterization		3066
+hairy cell leukemia		3067
+loprox		3068
+renal artery stenosis		3069
+rybix odt		3070
+combigan		3071
+provocholine		3072
+dipyridamole		3073
+arzerra		3074
+teriparatide		3075
+lacosamide		3076
+guillain-barre syndrome		3077
+debrox		3078
+betoptic		3079
+adrenal suppression		3080
+trigger finger		3081
+idiopathic thrombocytopenia purpura		3082
+astelin		3083
+preterm labor		3084
+ertapenem		3085
+triptorelin		3086
+focalin xr		3087
+tenormin		3088
+activase		3089
+asthma exacerbation in children		3090
+cyclogyl		3091
+barbiturate drug		3092
+rosiglitazone and glimepiride		3093
+chronic inflammatory demyelinating polyneuropathy		3094
+ondansetron		3095
+balsalazide		3096
+pitocin		3097
+excessive menstrual bleeding		3098
+tricuspid regurgitation		3099
+antiarrhythmic		3100
+muscle atrophy		3101
+escitalopram		3102
+bronkosol		3103
+wbc count		3104
+prostate gland enlargement		3105
+sudden severe difficulty breathing		3106
+troglitazone		3107
+adh		3108
+tilia fe		3109
+basiliximab		3110
+prolia		3111
+fexicam		3112
+bone infection		3113
+implanon		3114
+breast lump		3115
+neck injury		3116
+mycobutin		3117
+fuzeon		3118
+etonogestrel		3119
+sputum gram stain and culture		3120
+eszopiclone		3121
+victrelis		3122
+huntington disease		3123
+benemid		3124
+helidac		3125
+velban		3126
+seromycin		3127
+acebutolol		3128
+ponstel		3129
+vasotec		3130
+vinblastine		3131
+panitumumab		3132
+chronic pyelonephritis		3133
+toprol		3134
+male urogenital diseases		3135
+hydromorphone hydrochloride		3136
+micronase		3137
+femcon fe		3138
+anti diarrheal drug		3139
+simulect		3140
+zeosa		3141
+oruvail		3142
+nexplanon		3143
+rilutek		3144
+brevital		3145
+losartan		3146
+rett syndrome		3147
+leukine		3148
+seconal		3149
+stomach cancer		3150
+penlac		3151
+diabeta		3152
+periorbital cellulitis		3153
+imitrex		3154
+atherosclerosis		3155
+promethazine rectal		3156
+senna		3157
+diverticular diseases		3158
+epirubicin		3159
+librax		3160
+nucynta		3161
+lotensin		3162
+amphotericin b		3163
+bells palsy		3164
+vosol		3165
+demerol		3166
+bronkometer		3167
+tilade		3168
+drug or alcohol intoxication		3169
+night sweats		3170
+cml		3171
+miller fisher syndrome		3172
+tribenzor		3173
+dexferrum		3174
+brain avm		3175
+paranoid behavior		3176
+zytiga		3177
+biliary atresia		3178
+alendronate		3179
+folliculitis		3180
+kombiglyze xr		3181
+murine ear		3182
+cogentin		3183
+janumet xr		3184
+mifepristone		3185
+choline magnesium salicylate		3186
+mefenamic acid		3187
+perjeta		3188
+tapentadol		3189
+tetanus shot		3190
+thoracic (upper back) strain		3191
+sprintec		3192
+ofatumumab		3193
+bicillin la		3194
+zosyn		3195
+tobrex		3196
+kyphosis		3197
+toposar		3198
+urinary tract infections in men		3199
+hypersensitivity pneumonitis		3200
+heat burn of mouth or tongue		3201
+janumet		3202
+riluzole		3203
+black hairy tongue		3204
+amphotericin b lipid complex		3205
+progesterone gel		3206
+stavudine		3207
+eclampsia		3208
+glipizide		3209
+mycoplasma infection		3210
+cipro hc otic		3211
+thyroid diseases		3212
+victoza		3213
+eye swelling		3214
+alport syndrome		3215
+mononessa		3216
+ileus		3217
+rifabutin		3218
+pneumocystis pneumonia		3219
+tygacil		3220
+osteogenesis imperfecta		3221
+coartem		3222
+zonalon		3223
+infed		3224
+pegaptanib		3225
+pyrantel		3226
+trecator sc		3227
+asthma exacerbation in adults		3228
+bone scan		3229
+cidp		3230
+nitrong		3231
+fluoroquinolone antibiotic		3232
+neostigmine		3233
+sumycin		3234
+glyburide		3235
+osteosarcoma		3236
+eye inflammation		3237
+nifedical xl		3238
+klor con		3239
+tape worm infection		3240
+glynase prestab		3241
+wegener's granulomatosis		3242
+calcium pyrophosphate deposition		3243
+zolmitriptan		3244
+vancenase		3245
+zomig		3246
+ether anesthetic		3247
+priftin		3248
+disulfiram		3249
+spiriva handihaler		3250
+florone		3251
+liver biopsy		3252
+maxalt		3253
+tinidazole		3254
+didronel		3255
+cleft palate		3256
+nizatidine		3257
+orencia		3258
+crinone		3259
+nitroquick		3260
+ct of brain		3261
+streptozocin		3262
+lunesta		3263
+pick disease		3264
+muscle wasting		3265
+dexmethylphenidate		3266
+halotestin		3267
+mercury poisoning		3268
+edarbyclor		3269
+ethionamide		3270
+doxazosin		3271
+tiotropium bromide		3272
+cialis		3273
+tobi		3274
+novocain		3275
+soft tissue sarcoma		3276
+pertuzumab		3277
+salicylic acid		3278
+pseudoephedrine		3279
+urinary tract infections in women		3280
+lisinopril		3281
+tetrabenazine		3282
+simponi		3283
+wolff parkinson white syndrome		3284
+boceprevir		3285
+actinomycosis		3286
+donepezil		3287
+yohimex		3288
+gatifloxacin		3289
+unasyn		3290
+fungal infection		3291
+nucynta er		3292
+desloratadine		3293
+proloprim		3294
+nonsustained ventricular tachycardia		3295
+sargramostim		3296
+priscoline		3297
+irbesartan		3298
+parkinsonism		3299
+fecal incontinence in adults		3300
+impetigo		3301
+mydriacyl		3302
+corticosteroid drug		3303
+mood stabilizer		3304
+lactate dehydrogenase		3305
+zolpidem		3306
+piperacillin and tazobactam		3307
+endometritis		3308
+yersinia		3309
+erysipelas		3310
+hypernatremia		3311
+neck strain		3312
+sulfamethoxazole		3313
+ddi		3314
+avandamet		3315
+pituitary tumor		3316
+sleep disturbances in adults		3317
+buerger disease		3318
+mri of abdomen		3319
+isoetharine		3320
+meperidine hydrochloride		3321
+tigecycline		3322
+dopamine		3323
+cortisporin		3324
+hiccups		3325
+hmg coa enzyme blocker		3326
+sulfacetamide		3327
+regitine		3328
+indapamide		3329
+innopran xl		3330
+skin darkening		3331
+vepesid		3332
+ambien		3333
+aminophylline		3334
+vitamin a		3335
+agenerase		3336
+long acting benzodiazepine		3337
+dlv		3338
+relpax		3339
+gm csf		3340
+tice bcg		3341
+depressed mood		3342
+enoxaparin		3343
+pulmicort respules		3344
+nasalcrom		3345
+infant feeding disorders		3346
+dumping syndrome		3347
+cheratussin ac		3348
+poor concentration		3349
+pneumocystis jirovecii pneumonia		3350
+urine leaking (incontinence)		3351
+abiraterone acetate		3352
+modicon		3353
+ultracet		3354
+flonase		3355
+seborrheic dermatitis		3356
+cisapride		3357
+ziagen		3358
+lantus		3359
+roseola		3360
+spinal disease		3361
+merrem iv		3362
+zenchent		3363
+children's nasalcrom		3364
+cefixime		3365
+vp		3366
+benadryl		3367
+ionized calcium		3368
+spider bites		3369
+pet scan		3370
+lichen simplex chronicus		3371
+joint diseases		3372
+short acting benzodiazepine		3373
+foreign object in the ear		3374
+separated shoulder		3375
+cervical (neck) radiculopathy		3376
+prezista		3377
+jolessa		3378
+occipital neuralgia		3379
+tekturna hct		3380
+empirin with codeine #		3381
+prostate diseases		3382
+cryselle		3383
+emollient		3384
+hemangioma		3385
+dactinomycin		3386
+avalide		3387
+estrogen		3388
+ogen		3389
+metoprolol		3390
+briellyn		3391
+labetalol		3392
+levitra		3393
+stimate		3394
+balziva		3395
+azilect		3396
+neuroblastoma		3397
+introvale		3398
+seasonique		3399
+flovent hfa		3400
+pantoprazole		3401
+seasonale		3402
+probenecid		3403
+alteplase		3404
+abatacept		3405
+camrese		3406
+hydrocortisone polymyxin and neomycin		3407
+hip injuries		3408
+amethia		3409
+altavera		3410
+portia		3411
+twinrix		3412
+cycloserine		3413
+apresazide		3414
+viral gastroenteritis in children		3415
+spinal abscess		3416
+citalopram		3417
+marlissa		3418
+lubiprostone		3419
+dressler syndrome		3420
+torsemide		3421
+tornalate		3422
+quasense		3423
+liver transplant		3424
+ogestrel		3425
+hydroxyzine		3426
+propulsid		3427
+first trimester pregnancy		3428
+duetact		3429
+zenchent fe		3430
+breast abscess		3431
+accupril		3432
+cocaine overdose		3433
+hyperemesis gravidarum		3434
+lozol		3435
+pyloric stenosis		3436
+hepsera		3437
+eyelid redness		3438
+keratosis pilaris		3439
+liraglutide		3440
+rifapentine		3441
+nitrolingual		3442
+folate		3443
+etidronate		3444
+tramdol and acetaminophen		3445
+lymphogranuloma venereum		3446
+pindolol		3447
+oral thrush		3448
+pirbuterol		3449
+penicillin vk		3450
+squamous cell cancer		3451
+ototoxicity		3452
+vestibular neuritis		3453
+diphenoxylat and atropine		3454
+retinal vein occlusion		3455
+comtan		3456
+pediotic		3457
+hand foot mouth disease		3458
+rizatriptan		3459
+group a strep infection		3460
+hemabate		3461
+slo bid		3462
+venofer		3463
+nilutamide		3464
+xifaxan		3465
+adcirca		3466
+theo		3467
+diethylpropion		3468
+tripohist		3469
+theodur		3470
+hormone therapy		3471
+diprosone		3472
+rasagiline		3473
+nifediac cc		3474
+factor ix		3475
+nocturia		3476
+aceon		3477
+clostridium difficile associated disease		3478
+knee strain		3479
+bubonic plague		3480
+maxiflor		3481
+kineret		3482
+benzodiazepine overdose		3483
+metaproterenol		3484
+corticosteroids		3485
+orthoest		3486
+bisphosphonate		3487
+brief psychotic disorder		3488
+recent childbirth		3489
+flea bites		3490
+pimozide		3491
+uniphyl		3492
+nitrol		3493
+prasugrel		3494
+bontril pdm		3495
+marcaine with epinephrine		3496
+amitiza		3497
+natazia		3498
+quit smoking		3499
+phenobarbital belladonna and ergotamine		3500
+allergic reaction to insect bite		3501
+orap		3502
+tooth disorders		3503
+omontys		3504
+chloramphenicol sodium succinate		3505
+zebeta		3506
+abacavir		3507
+nitrostat		3508
+serostim		3509
+tracrium		3510
+guanabenz		3511
+zafirlukast		3512
+reye's syndrome		3513
+synalar		3514
+back injury		3515
+ampicillin and sulbactam		3516
+sinequan		3517
+plavix		3518
+memory loss		3519
+trandate		3520
+idiopathic pulmonary arterial hypertension		3521
+shigellosis		3522
+atelvia		3523
+leprosy		3524
+darunavir		3525
+bruised shin		3526
+bebulin vh		3527
+gritty or scratchy eyes		3528
+donnatal		3529
+physical exam		3530
+naropin		3531
+septal perforation		3532
+clinidium and chlordiazepoxide		3533
+dipentum		3534
+campylobacter infection		3535
+enlarged liver and spleen		3536
+breast diseases		3537
+nitrek		3538
+median nerve injury		3539
+ipratropium		3540
+eustachian tube dysfunction		3541
+seasonal affective disorder (seasonal depression)		3542
+teratogenesis		3543
+hiv antibody   and		3544
+epicondylitis		3545
+psorcon		3546
+loratadine		3547
+periodic limb movement disorder		3548
+aerobic and anaerobic culture		3549
+rimactane		3550
+diflucan		3551
+ropivacaine		3552
+hypertension		3553
+platelet inhibitor		3554
+flovent diskus		3555
+mavik		3556
+naphazoline		3557
+vaginal prolapse		3558
+alkaline phosphatase		3559
+reactive arthritis		3560
+ursodiol		3561
+entacapone		3562
+berger's disease (idiopathic hematuria)		3563
+atrovent		3564
+atrial myxoma		3565
+spinal stenosis		3566
+d t		3567
+eletriptan		3568
+sprain		3569
+nicotinic acid		3570
+trovan		3571
+snail sting		3572
+blistering		3573
+intal		3574
+axert		3575
+cetirizine		3576
+pentobarbital		3577
+dolasetron		3578
+subutex		3579
+deponit		3580
+acetic acid and aluminum acetate		3581
+epidermolysis bullosa		3582
+tolazamide		3583
+magnetic resonance angiography		3584
+irrigation		3585
+isometheptene and dichloralphenazone and acetaminophen		3586
+nitro bid		3587
+spinal cord compression		3588
+glioblastoma		3589
+oxymetazoline		3590
+nitrotab		3591
+arm weakness		3592
+intestinal ischemia		3593
+palivizumab		3594
+contact dermatitis		3595
+chloroprocaine		3596
+thiabendazole		3597
+adefovir		3598
+narcotic combinations for pain		3599
+propantheline		3600
+rifaximin		3601
+ear disorders		3602
+lincomycin		3603
+stress test		3604
+omeprazole		3605
+dipivefrin		3606
+blast crisis		3607
+suprax		3608
+wellcovorin		3609
+organophosphate poisoning		3610
+hypokalemic periodic paralysis		3611
+tinactin		3612
+amblyopia		3613
+urecholine		3614
+muscle disorders		3615
+phendimetrazine		3616
+methysergide		3617
+age related macular degeneration		3618
+viral culture		3619
+orlistat		3620
+fluorouracil		3621
+zyrtec		3622
+airsickness		3623
+urinary urgency		3624
+secondary hyperparathyroidism		3625
+esophageal achalasia		3626
+tridil		3627
+leg weakness		3628
+physostigmine		3629
+antilirium		3630
+minimal change disease		3631
+trigger thumb		3632
+asmanex twisthaler		3633
+mebendazole		3634
+betaxolol		3635
+daunoxome		3636
+xeomin		3637
+ovarian torsion		3638
+blister rash		3639
+cervical spine injury		3640
+novoseven rt		3641
+jenest		3642
+atenolol		3643
+levemir		3644
+peginesatide		3645
+achilles tendon rupture		3646
+fluoxymesterone		3647
+adult respiratory distress syndrome		3648
+seasickness		3649
+neuralgia		3650
+ethinyl estradiol and ethynodiol		3651
+eptifibatide		3652
+carsickness		3653
+armodafinil		3654
+norditropin		3655
+nitro dur		3656
+nitrogard		3657
+aminocaproic acid		3658
+minitran		3659
+muscle twitching		3660
+apidra		3661
+eulexin		3662
+bismuth subsalicylate metronidazole and tetracycline		3663
+primaxin		3664
+g csf		3665
+granulomatosis		3666
+antacid		3667
+binge eating		3668
+daunorubicin liposome		3669
+benazepril		3670
+morgellons		3671
+ventavis		3672
+generess fe		3673
+clonidine and chlorthalidone		3674
+cephalexin		3675
+buspar		3676
+tropicamide		3677
+halaven		3678
+klinefelter's syndrome		3679
+upper airway infection		3680
+zegerid		3681
+enpresse		3682
+joubert syndrome		3683
+acetaminophen overdose		3684
+myzilra		3685
+amethia lo		3686
+bontril sr		3687
+skin irritation		3688
+xylocaine with epinephrine		3689
+glycogen storage disease type ii		3690
+lofibra capsules		3691
+romazicon		3692
+alatrofloxacin mesylate		3693
+inr		3694
+rofact		3695
+loseasonique		3696
+blood in semen		3697
+amethyst		3698
+bed bugs		3699
+tyzeka		3700
+zaleplon		3701
+zavesca		3702
+abdominal lump		3703
+abnormal blood pressure		3704
+lambert eaton myasthenic syndrome		3705
+homatropine		3706
+essential thrombocytosis		3707
+nimbex		3708
+buspirone		3709
+raloxifene		3710
+apathy		3711
+taking corticosteroid medication		3712
+lybrel		3713
+undescended testicle		3714
+compartment syndrome		3715
+fareston		3716
+domeboro otic		3717
+adult obesity		3718
+paranoia		3719
+procaine		3720
+factor viia		3721
+leg numbness		3722
+felty syndrome		3723
+brain and spinal infections		3724
+magnacet		3725
+aranelle		3726
+addiction reducing agent		3727
+rib fracture		3728
+toxic thyroid adenoma		3729
+cerumenex		3730
+throat clearing		3731
+micrhogam		3732
+lo loestrin fe		3733
+duranest		3734
+swim ear		3735
+thrombotic thrombocytopenia purpura (ttp)		3736
+loose stools		3737
+jentadueto		3738
+primalev		3739
+isentress		3740
+clotrimazole and betamethasone		3741
+tricyclic antidepressant		3742
+pcr		3743
+yohimbine		3744
+lofibra tablets		3745
+chloral hydrate		3746
+foscarnet		3747
+macrolide antibiotic		3748
+skelid		3749
+lutera		3750
+lessina		3751
+biothrax		3752
+intelence		3753
+vipoma		3754
+valisone		3755
+flomax		3756
+carboprost		3757
+genotropin		3758
+percocet		3759
+auralgan		3760
+nutropin		3761
+psychogenic polydipsia		3762
+donnazyme		3763
+olsalazine		3764
+sronyx		3765
+mallory weiss tear		3766
+spectracef		3767
+endocet		3768
+aviane		3769
+benign tumor		3770
+tinnitus		3771
+roxicet		3772
+foradil aerolizer		3773
+colestipol		3774
+quinapril		3775
+angiodysplasia of the colon		3776
+alclometasone		3777
+amicar		3778
+methylxanthines		3779
+lumigan		3780
+ceftin		3781
+orsythia		3782
+humatrope		3783
+metabolic diseases		3784
+tolbutamide		3785
+fecal incontinence in children		3786
+prevacid		3787
+aciphex		3788
+camrese lo		3789
+alpha thalassemia		3790
+evista		3791
+carcinoid syndrome		3792
+toxic multinodular goiter		3793
+leena		3794
+cutaneous t cell lymphoma		3795
+balanitis		3796
+pregnancy test		3797
+eribulin mesylate		3798
+syndrome of inappropriate antidiuretic hormone (siadh)		3799
+retisert		3800
+actos		3801
+trisomy   (patau syndrome)		3802
+shoulder injuries and disorders		3803
+alcoholic ketoacidosis		3804
+amrix		3805
+retinoid		3806
+oseltamivir		3807
+poliomyelitis		3808
+alrex		3809
+oxytocin		3810
+lactic acid		3811
+cardiospasm		3812
+stomach upset		3813
+superficial thrombophlebitis		3814
+raltegravir		3815
+rimantadine		3816
+aminotransferase		3817
+degeneration of cervical spine		3818
+proquad		3819
+enalapril		3820
+developmental delay		3821
+toremifene		3822
+butabarbital		3823
+vdrl		3824
+scabies		3825
+pediazole		3826
+hemoglobin h disease		3827
+hydrocortisone butyrate		3828
+oxacillin		3829
+prilosec		3830
+emedastine		3831
+dysport		3832
+achalasia		3833
+trachoma		3834
+blastomycosis		3835
+zemuron		3836
+azor		3837
+pain during sex		3838
+kerlone		3839
+sun poisoning		3840
+aspirin use		3841
+difficulty falling asleep		3842
+almotriptan		3843
+hemolytic disease of newborn		3844
+tykerb		3845
+sunstroke		3846
+cefotaxime		3847
+phenobarbital atropine hyoscyamine and scopolamine		3848
+fexmid		3849
+oxandrolone		3850
+golimumab		3851
+nedocromil		3852
+pompe disease		3853
+hydration		3854
+insulin glargine		3855
+solarze		3856
+ultiva		3857
+pepto bismol		3858
+etravirine		3859
+miglustat		3860
+teething		3861
+colonic diseases		3862
+estradiol cypionate		3863
+tonsil abscess		3864
+splint		3865
+acne medications		3866
+foreign object in the rectum		3867
+dynabac		3868
+factive		3869
+rozerem		3870
+zinacef		3871
+carbuncle		3872
+sonata		3873
+cardiovascular diseases		3874
+thyroid usp		3875
+obesity in adults		3876
+osmitrol		3877
+propofol		3878
+ebola virus		3879
+tiludronate		3880
+cefuroxime axetil		3881
+iloprost		3882
+protropin		3883
+protease inhibitor		3884
+suboxone		3885
+havrix		3886
+frova		3887
+ciclopirox		3888
+clobetasol		3889
+pediarix		3890
+vardenafil		3891
+incobotulinumtoxin a		3892
+blind spot in vision		3893
+cervical (neck) herniated disk		3894
+sexual intercourse		3895
+parasomnias in adults		3896
+barbiturate abuse		3897
+transfusion related acute lung injury		3898
+antiplatelet		3899
+methyclothiazide and deserpine		3900
+interstitial nephritis		3901
+acanthosis nigricans		3902
+enalapril and felodipine		3903
+rotor syndrome		3904
+gastrointestinal disturbances		3905
+levatol		3906
+chemet		3907
+amcinonide		3908
+seizure drug		3909
+wrist fracture		3910
+skin infection		3911
+timolol and hydrocholorthiazide		3912
+yellow fever		3913
+artificial tears		3914
+exparel		3915
+fasting blood sugar		3916
+pioglitazone		3917
+epidermal (sebaceous) cyst		3918
+captopril and hydrocholorthiazide		3919
+evoxac		3920
+insulin detemir		3921
+bronchiolitis obliterans organizing pneumonia		3922
+raxar		3923
+rubella		3924
+maxaquin		3925
+third trimester pregnancy		3926
+somatuline depot		3927
+elitek		3928
+flulaval		3929
+type   glycogen storage disease		3930
+glucovance		3931
+ulnar nerve injury		3932
+naftifine		3933
+hematoma		3934
+prazosin and polythiazide		3935
+twynsta		3936
+cefotan		3937
+basal cell nevus syndrome		3938
+orbital fracture		3939
+shigella		3940
+dyrenium		3941
+boostrix		3942
+warts		3943
+erivedge		3944
+mood disorders		3945
+dalteparin		3946
+disinhibition		3947
+blood clotting disorder		3948
+strabismus		3949
+nocardiosis		3950
+filgrastim		3951
+rabavert		3952
+thoracic outlet syndrome		3953
+zagam		3954
+staxyn		3955
+joint sprain		3956
+meprobamate		3957
+telbivudine		3958
+fetal alcohol syndrome		3959
+corgard		3960
+bisoprolol		3961
+prometrium		3962
+metoprolol tartrate		3963
+insulin glulisine		3964
+williams syndrome		3965
+second trimester pregnancy		3966
+viramune		3967
+low muscle tone		3968
+nexium		3969
+sodium polystyrene sulfonate		3970
+clomid		3971
+penetrex		3972
+discoid lupus erythematosus		3973
+butenafine		3974
+reiter's syndrome		3975
+lexiscan		3976
+hydrocholorthiazide and amiloride		3977
+univasc		3978
+nerve conduction and electromyography		3979
+bile acid reducer		3980
+cefuroxime		3981
+erythromycin ethylsuccinate and sulfisoxazole		3982
+ramelteon		3983
+multiple rib fractures		3984
+tazicef		3985
+filgrastin		3986
+difficulty walking		3987
+entocort ec		3988
+tingling		3989
+side pain		3990
+placidyl		3991
+meckel's diverticulum		3992
+enlarged tongue		3993
+gemifloxacin		3994
+wiskott aldrich		3995
+nallpen		3996
+dexamethasone		3997
+viral skin diseases		3998
+constipation in children		3999
+non cholera vibrio infections		4000
+rectal abscess		4001
+enalapril and diltiazem		4002
+entozyme		4003
+connective tissue disease		4004
+bethanechol		4005
+propranolol and hydrocholorthiazide		4006
+micronized progesterone		4007
+tamsulosin		4008
+hyperactivity		4009
+difenoxin and atropine		4010
+calcium carbonate		4011
+unipen		4012
+cylert		4013
+amidate		4014
+norinyl  +		4015
+medulloblastoma		4016
+amerge		4017
+tranexamic acid		4018
+loteprednol		4019
+hemorrhoids		4020
+allergy tests		4021
+succimer		4022
+nevirapine		4023
+serophene		4024
+ceftazidime		4025
+coccyx disorders		4026
+principen		4027
+ultane		4028
+german measles		4029
+finger infection		4030
+vismodegib		4031
+nutritional support		4032
+prednicarbate		4033
+propecia		4034
+miscarriage		4035
+lapatinib		4036
+sodium bisphosphate		4037
+sty (hordeolum)		4038
+muscular dystrophy		4039
+giardiasis		4040
+alpha   antitrypsin deficiency		4041
+lanreotide		4042
+difficulty staying asleep		4043
+lumbar (low back) herniated disk		4044
+oxymorphone		4045
+premature baby		4046
+prolactin		4047
+ct of abdomen and pelvis with contast		4048
+perindopril		4049
+omnitrope		4050
+severe combined immunodeficiency		4051
+methyl prostaglandin f  alpha		4052
+meropenem		4053
+iron and iron binding capacity		4054
+increased bmi		4055
+exercise more		4056
+phrenilin forte		4057
+proscar		4058
+speech therapy		4059
+abdominal mass		4060
+rasburicase		4061
+enablex		4062
+sturge weber syndrome		4063
+kaopectate		4064
+methylcellulose		4065
+drainage or pus		4066
+frovatriptan		4067
+incivek		4068
+abc		4069
+ramipril		4070
+hydrocele		4071
+argatroban		4072
+creon		4073
+lumbar (low back) strain		4074
+trembling		4075
+pyrazinamide		4076
+thrombotic thrombocytopenic purpura (ttp)		4077
+counseling and therapy clinics		4078
+visken		4079
+mitral stenosis		4080
+vitiligo		4081
+elderly age		4082
+onglyza		4083
+claritin		4084
+remodulin		4085
+falls or injury		4086
+pancreatin		4087
+methacholine		4088
+scalp psoriasis		4089
+lithostat		4090
+medium acting benzodiazepine		4091
+drug addiction		4092
+constipation in adults		4093
+formoterol		4094
+luveris		4095
+nexiclon xr		4096
+conversion and somatization disorders		4097
+ethinyl estradiol and norgestrel		4098
+anal cancer		4099
+sojourn		4100
+nafcil		4101
+borderline personality disorder		4102
+cevimeline		4103
+trilisate		4104
+flutamide		4105
+benign paroxysmal positional vertigo (bppv)		4106
+esomeprazole		4107
+enlarged finger tips		4108
+abdominal migraine		4109
+essential tremor		4110
+alfentanil		4111
+isopto homatropine		4112
+ganite		4113
+rheumatoid factor		4114
+veetids		4115
+migraine in children		4116
+neulasta		4117
+chloromycetin		4118
+livalo		4119
+thyro block		4120
+digestive system abnormalities		4121
+cefditoren pivoxil		4122
+metaglip		4123
+rhophylac		4124
+bed sore		4125
+finasteride		4126
+ferritin		4127
+actemra		4128
+bipolar disorder (manic depression)		4129
+euthroid		4130
+male genital disorders		4131
+wound care		4132
+lotemax		4133
+alfenta		4134
+metoprolol succinate		4135
+ichthyosis		4136
+amaryl		4137
+black lung		4138
+hydrocortisone valerate		4139
+burkitt lymphoma		4140
+inflammatory breast cancer		4141
+dopamine agonist		4142
+vesicare		4143
+hereditary neuropathy		4144
+secobarbital		4145
+common warts		4146
+fsh		4147
+azactam		4148
+v cillin		4149
+blocked arteries		4150
+rubella virus		4151
+intestinal malrotation		4152
+rectal prolapse		4153
+maxipime		4154
+prandimet		4155
+lodoxamide		4156
+hip fracture		4157
+laryngomalacia		4158
+treprostinil		4159
+neupogen		4160
+cyclothymia		4161
+darifenacin		4162
+fainting		4163
+adhd (attention deficit hyperactivity disorder)		4164
+retinoblastoma		4165
+typhim vi		4166
+cisplatin		4167
+epigastric pain		4168
+omnipen		4169
+aluminum hydroxide		4170
+factor viii deficiency		4171
+poisoning		4172
+pseudoephedrine and loratidine		4173
+asperger syndrome		4174
+winrho sdf		4175
+pulmonary aspergillosis		4176
+placenta blocks cervix		4177
+pituitary adenoma		4178
+crotalidae antivenin		4179
+spectazole		4180
+baycol		4181
+vitamin k		4182
+sun exposure		4183
+reduced reflexes		4184
+trandolapril		4185
+bronchoscopy		4186
+unexplained weight loss		4187
+enlarged or swollen glands		4188
+bystolic		4189
+nervous system diseases		4190
+achilles tendonitis		4191
+claritin d   hour		4192
+gallbladder inflammation (cholecystitis)		4193
+legg calve perthes disease		4194
+tazidime		4195
+neumega		4196
+decavac		4197
+darvon n		4198
+tocilizumab		4199
+taztia xt		4200
+tpa		4201
+flebogamma		4202
+pro banthine		4203
+ovulation		4204
+solifenacin		4205
+somatropin		4206
+numorphan		4207
+bellergal s		4208
+finger laceration		4209
+wrist injuries and disorders		4210
+atrial septal defects		4211
+gammagard liquid		4212
+lower leg swelling		4213
+trigeminal neuralgia (facial nerve pain)		4214
+pulmonary stenosis		4215
+ms (multiple sclerosis)		4216
+k dur		4217
+infantile paralysis		4218
+alphanate		4219
+facial swelling		4220
+claforan		4221
+avoidant personality disorder		4222
+loxitane		4223
+ascriptin		4224
+alpha blocker		4225
+brovana		4226
+aneurysm		4227
+norgesic		4228
+elephantiasis		4229
+tracleer		4230
+actigall		4231
+levothyroxine		4232
+propoxyphene		4233
+fifth disease		4234
+memantine		4235
+enlarged lymph nodes or glands		4236
+lansoprazole		4237
+normodyne		4238
+pain when swallowing		4239
+kidney biopsy		4240
+benzphetamine		4241
+docusate calcium		4242
+clopidogrel		4243
+short stature		4244
+anatomic penile abnormalities		4245
+namenda		4246
+opana er		4247
+firmagon		4248
+procaine penicillin		4249
+pentothal		4250
+dronabinol		4251
+tenosynovitis		4252
+symlin		4253
+doribax		4254
+sedating antihistamine		4255
+cardiac mri without contrast		4256
+skin laceration		4257
+angelman syndrome		4258
+oprelvekin		4259
+mastoiditis		4260
+isoniazid		4261
+kayexalate		4262
+tailbone injury		4263
+phenoxybenzamine		4264
+pegfilgrastim		4265
+snoring		4266
+methadone		4267
+bentyl		4268
+xolair		4269
+marinol		4270
+methadose		4271
+gammaplex		4272
+tolinase		4273
+neomycin polymyxin and hydrocortisone		4274
+naratriptan		4275
+ilotycin		4276
+pku		4277
+edwards syndrome		4278
+moexipril		4279
+aztreonam		4280
+broken bone		4281
+penbutolol		4282
+octagam		4283
+halcinonide		4284
+visual field defects		4285
+menactra		4286
+ultravate		4287
+deviated nasal septum		4288
+privigen		4289
+desoximetasone		4290
+emcyt		4291
+bisacodyl		4292
+amoxil		4293
+xopenex		4294
+fortaz		4295
+open angle glaucoma		4296
+telaprevir		4297
+femur fracture		4298
+inflammation		4299
+miralax		4300
+phenolphthalein		4301
+tb (tuberculosis)		4302
+clomiphene		4303
+rpr		4304
+getting no exercise		4305
+vitamin d deficiency		4306
+losec		4307
+idiopathic pulmonary fibrosis		4308
+chest pain on deep breaths		4309
+pityriasis rosea		4310
+bactocill		4311
+orinase		4312
+spinal cord injury		4313
+chronic spinal cord injury		4314
+chromosomal disorders		4315
+free t		4316
+trichotillomania		4317
+toxicology screen		4318
+csf culture		4319
+granuloma annulare		4320
+nose disorders		4321
+durezol		4322
+idamycin pfs		4323
+methohexital		4324
+benzaclin		4325
+dicyclomine		4326
+edwards syndrome (trisomy  )		4327
+pen vee k		4328
+meralgia paresthetica		4329
+pterygium		4330
+dexilant		4331
+raynaud phenomenon		4332
+imepenem and cilastatin		4333
+cefepime		4334
+spondylolisthesis		4335
+barium swallow xray		4336
+cystoscopy		4337
+clemastine		4338
+koh prep		4339
+pralidoxime		4340
+neuromuscular disorders		4341
+teniposide		4342
+hypoventilation syndromes		4343
+blood around the heart		4344
+lichen planus		4345
+atgam		4346
+smoking cessation		4347
+dolophine		4348
+synercid		4349
+pramlintide		4350
+degarelix		4351
+knee pain		4352
+triamterene		4353
+methanol poisoning		4354
+alosetron		4355
+midodrine		4356
+amphojel		4357
+pickwickian syndrome		4358
+lip laceration		4359
+lupus erythematosus		4360
+bosentan		4361
+hyper tet		4362
+septic hip		4363
+eylea		4364
+calan		4365
+acetohydroxamic acid		4366
+nadolol		4367
+loxapine		4368
+moles		4369
+gantanol		4370
+bacterial pneumonia		4371
+vumon		4372
+aldomet		4373
+gestational hypertension		4374
+spinal muscular atrophy		4375
+campath		4376
+acquired torticollis		4377
+female genital diseases		4378
+veregen		4379
+pamine		4380
+polymyxin b		4381
+pseudotumor cerebri		4382
+poor growth		4383
+saxagliptin		4384
+norgestrel		4385
+reticulocyte count		4386
+toviaz		4387
+exjade		4388
+bullous pemphigoid		4389
+thiazide drug		4390
+estramustine		4391
+hearing test		4392
+fexofenadine		4393
+pulmonary regurgitation		4394
+carboplatin		4395
+stool studies		4396
+hydralazine		4397
+uticort		4398
+thioguanine		4399
+keratoconus		4400
+stained teeth		4401
+irregular menstrual periods		4402
+rebetron		4403
+egrifta		4404
+droperidol		4405
+opioid overdose		4406
+ganglion cyst		4407
+iron supplements		4408
+fludrocortisone		4409
+hantavirus infection		4410
+fluarix		4411
+necrotizing enterocolitis		4412
+fesoterodine		4413
+armour thyroid		4414
+capsaicin		4415
+kinrix		4416
+dry skin		4417
+cortisol level		4418
+exforge		4419
+lymph node biopsy		4420
+poison ivy or poison oak		4421
+tropicacyl		4422
+trichomonas		4423
+cool compresses		4424
+three phase contraceptive		4425
+puncture wound		4426
+cholesteatoma		4427
+obesity in children		4428
+permax		4429
+methscopolamine		4430
+atracurium		4431
+rabeprazole		4432
+danazol		4433
+prostaglandin e		4434
+follistim aq		4435
+acl tear		4436
+reactive attachment disorder		4437
+auricular hematoma		4438
+dobutamine		4439
+benlysta		4440
+ventolin		4441
+zetonna		4442
+glimepiride		4443
+milk allergy		4444
+nebivolol		4445
+lymphocyte immune globulin		4446
+megestrol		4447
+benign essential tremor		4448
+calcium chloride		4449
+ear fullness		4450
+efudex		4451
+vaginal irritation		4452
+omnaris		4453
+difluprednate		4454
+free and total testosterone		4455
+streptococcal infection		4456
+doripenem		4457
+piriformis syndrome		4458
+bursitis (ankle)		4459
+prostin vr pediatric		4460
+dimercaprol		4461
+temovate		4462
+ceptaz		4463
+respigam		4464
+lutropin alfa		4465
+levulan kerastick		4466
+periodontal (gum) disease		4467
+cervical dysplasia		4468
+plasma exchange		4469
+comvax		4470
+flurandrenolide		4471
+face laceration		4472
+bismuth subsalicylate		4473
+gender dysphoria		4474
+bal		4475
+gastrocrom		4476
+tums		4477
+sinecatechins		4478
+ak mycin		4479
+clocortolone pivalate		4480
+retroperitoneal fibrosis		4481
+g pd deficiency		4482
+ggt		4483
+fetal hydrops		4484
+vertebral fracture		4485
+multiple pregnancy		4486
+ketotifen		4487
+tesamorelin		4488
+pneumonitis		4489
+gilenya		4490
+urso forte		4491
+eosinophilic esophagitis		4492
+anakinra		4493
+muscle cramps or spasms (painful)		4494
+vitamin a deficiency		4495
+calcium gluconate		4496
+oxygen saturation		4497
+fungal skin infection		4498
+aflibercept		4499
+scalp laceration		4500
+gum disease		4501
+febrile seizure		4502
+hip pain		4503
+umbilical hernia		4504
+ephedrine		4505
+becker muscular dystrophy		4506
+livostin		4507
+alternagel		4508
+strongyloides infection		4509
+kalydeco		4510
+januvia		4511
+body lice		4512
+xray of neck		4513
+feeding problems		4514
+hiv/aids during pregnancy		4515
+pain in right upper abdomen		4516
+anca screen		4517
+samsca		4518
+bad breath		4519
+arformoterol		4520
+alemtuzumab		4521
+vitamin e		4522
+fecal impaction		4523
+trusopt		4524
+novolog		4525
+kefurox		4526
+basal cell carcinoma		4527
+trimethobenzamide		4528
+dorzolamide		4529
+pitavastatin		4530
+limb pain		4531
+breathing difficulty		4532
+inapsine		4533
+pseudomembranous colitis		4534
+arm laceration		4535
+cradle cap		4536
+clotrimazole		4537
+von recklinghausen's disease		4538
+feiba nf		4539
+cauliflower ear		4540
+monoclonal gammopathy of undetermined significance		4541
+tebrazid		4542
+bydureon		4543
+np thyroid		4544
+hearing difficulties		4545
+wound infection		4546
+enlarged neck lymph nodes		4547
+foot laceration		4548
+drisdol		4549
+inspra		4550
+idarubicin		4551
+nvp		4552
+soreness or burning inside of mouth		4553
+neurofibromatosis		4554
+oral leukoplakia		4555
+polycystic ovary syndrome (pcos)		4556
+weak immune system		4557
+immune deficiency		4558
+elmiron		4559
+zemplar		4560
+tyvaso		4561
+erb palsy		4562
+loss of sex drive		4563
+foot drop		4564
+aminolevulinic acid		4565
+ampyra		4566
+tricyclic antidepressant overdose		4567
+fingolimod		4568
+volvulus		4569
+sleep disorders		4570
+psychosis		4571
+factor viii		4572
+lotronex		4573
+tetracyclic drug		4574
+betagan		4575
+paricalcitol		4576
+belimumab		4577
+unusual behavior		4578
+facial muscle weakness		4579
+infanrix		4580
+halobetasol		4581
+growth hormone deficiency		4582
+stelara		4583
+xiaflex		4584
+spider veins		4585
+transvaginal ultrasound		4586
+quinpristin and dalfopristin		4587
+charcot marie tooth		4588
+vaginal itching		4589
+ivacaftor		4590
+levalbuterol		4591
+oppositional defiant disorder		4592
+pentosan		4593
+azatadine		4594
+norcuron		4595
+tigan		4596
+tooth pain		4597
+anal abscess		4598
+hemoglobin a c		4599
+xyzal		4600
+vicodin		4601
+hand laceration		4602
+magnesium deficiency		4603
+uterine diseases		4604
+dark colored (brown) urine		4605
+gantrisin pediatric		4606
+zegerid otc		4607
+body dysmorphic disorder		4608
+mechanical ventilation		4609
+mri of pelvis		4610
+pyridoxine		4611
+pancoast syndrome		4612
+cervarix		4613
+dry socket		4614
+hydroquinone		4615
+pentoxifylline		4616
+increlex		4617
+cerebrospinal fluid		4618
+loop diuretic		4619
+cigarette smoke exposure		4620
+sebaceous cyst		4621
+bleeding gums		4622
+daliresp		4623
+chalazion		4624
+thrombate iii		4625
+tendon laceration		4626
+megace		4627
+pityriasis versicolor		4628
+anectine		4629
+xopenex hfa		4630
+acetic acid and propylene glycol		4631
+holding objects closer to read		4632
+rhabdomyosarcoma		4633
+polycitra k		4634
+augmented betamethasone dip		4635
+perimenopause		4636
+ascorbic acid		4637
+pneumococcal vaccine		4638
+blighted ovum		4639
+collagenase clostridium histolyticum		4640
+ten k		4641
+nephritis		4642
+high risk pregnancy		4643
+fungal nail infection		4644
+vantas		4645
+coughing blood		4646
+cta		4647
+cecon		4648
+abdominal swelling		4649
+urso		4650
+exposure to radiation		4651
+pramosone		4652
+sensipar		4653
+urocit k		4654
+growth hormone deficiency in children		4655
+shoulder pain		4656
+colistin		4657
+drug and alcohol screen		4658
+dexlansoprazole		4659
+econazole		4660
+swollen tonsils		4661
+brilinta		4662
+troponin		4663
+cimetidine		4664
+rho immune globulin		4665
+adrenaline		4666
+inhaled foreign body		4667
+sufentanil		4668
+demerol phenergan thorazine		4669
+acetylcysteine		4670
+infectious diseases		4671
+pramosone e		4672
+lidocaine and prilocaine		4673
+benzoyl peroxide cream		4674
+phentolamine		4675
+mitochondrial disorder		4676
+tetanus toxoid adsorbed		4677
+tolvaptan		4678
+dyshidrotic dermatitis		4679
+lucentis		4680
+clindamycin and benzoyl peroxide		4681
+nicotine gum		4682
+gentian violet topical		4683
+lustra		4684
+succinylcholine		4685
+club foot		4686
+urinary hesitancy		4687
+retinitis pigmentosa		4688
+hamstring injury		4689
+low strength steroid		4690
+dalfampridine		4691
+ephedrine sulfate		4692
+dairy allergy		4693
+muscle biopsy		4694
+zaditor		4695
+anti inhibitor coagulant complex		4696
+diprolene		4697
+hereditary spherocytosis		4698
+swallowing disorder		4699
+rhogam		4700
+phytonadione		4701
+light therapy		4702
+roflumilast		4703
+intropin		4704
+rest		4705
+ibs (irritable bowel syndrome)		4706
+helixate fs		4707
+ursodeoxycholate		4708
+cisatracurium		4709
+emla		4710
+tender abdomen		4711
+female		4712
+sufenta		4713
+cathflo activase		4714
+poor hygiene		4715
+lortab		4716
+starlix		4717
+visual acuity		4718
+allegra		4719
+free hemoglobin		4720
+kogenate fs		4721
+bleph		4722
+sski		4723
+myobloc		4724
+tekamlo		4725
+iv magnesium sulfate		4726
+hydrocodone cough syrup		4727
+diclofenac		4728
+proamatine		4729
+primary aldosteronism		4730
+leg swelling		4731
+copd (chronic obstructive pulmonary disease)		4732
+dandruff		4733
+otosclerosis		4734
+benadryl mylanta and carafate		4735
+macromastia		4736
+runner's knee		4737
+fosfomycin		4738
+ergocalciferol		4739
+edarbi		4740
+promacta		4741
+racemic epinephrine		4742
+mecamylamine		4743
+ustekinumab		4744
+natrecor		4745
+calan sr		4746
+rosula		4747
+somavert		4748
+uterine prolapse		4749
+halfan		4750
+multiple personality disorder		4751
+non-hodgkin lymphoma		4752
+cedax		4753
+fungizone		4754
+athlete		4755
+enlarged testicular veins		4756
+throat tightness		4757
+antihemophilic factor		4758
+ringworm (tinea)		4759
+arm pain		4760
+mediastinitis		4761
+immunodeficiency syndromes		4762
+d dimer		4763
+ichthyosis vulgaris		4764
+joint dislocation		4765
+folvite		4766
+brain damage		4767
+vpriv		4768
+pavulon		4769
+appetite suppressant		4770
+amytal		4771
+intersex		4772
+mebaral		4773
+dry cough		4774
+levocetirizine		4775
+treacher collins syndrome		4776
+tuinal		4777
+edurant		4778
+ticlopidine		4779
+hypoplastic left heart		4780
+azopt		4781
+feraheme		4782
+peripheral nervous system diseases		4783
+nplate		4784
+eyelid swelling		4785
+peroneal muscular atrophy		4786
+ocuflox		4787
+paraphimosis		4788
+esophageal disorders		4789
+transient global amnesia		4790
+barium enema		4791
+anti malaria drug		4792
+wycillin		4793
+rectal pain		4794
+sitagliptin		4795
+behavior modification		4796
+lariam		4797
+central nervous system diseases		4798
+suicide		4799
+endoscopic ultrasound		4800
+micro k		4801
+clindamax vaginal		4802
+familial adenomatous polyposis		4803
+ciprodex otic		4804
+patent foramen ovale		4805
+lutrepulse		4806
+short of breath on lying flat		4807
+herpes virus infections		4808
+uterine rupture		4809
+hoigne's syndrome		4810
+learning disorders		4811
+sodium		4812
+adacel		4813
+kytril		4814
+mivacron		4815
+ticagrelor		4816
+diphtheria and tetanus and acellular pertussis vaccine		4817
+sensory processing disorder		4818
+hemofil m		4819
+triiodothyronine		4820
+iliotibial band syndrome		4821
+verelan		4822
+cross eyed		4823
+rocuronium		4824
+stimulant		4825
+jakafi		4826
+protopam		4827
+contaminated food or water		4828
+vaqta		4829
+pml		4830
+levo dromoran		4831
+palpitations		4832
+vitamin k deficiency		4833
+bilirubin		4834
+false pregnancy		4835
+funnel chest		4836
+antihemophilic factor viii		4837
+isoptin		4838
+chronic pain syndrome		4839
+polysomnography		4840
+bronchoalveolar lavage		4841
+molluscum contagiosum		4842
+vitamin e deficiency		4843
+mittelschmerz		4844
+vospire er		4845
+myxedema coma		4846
+hepatitis c antibody		4847
+developmental hip dysplasia		4848
+follitropin beta		4849
+uric acid		4850
+cefazolin		4851
+fu		4852
+urologic diseases		4853
+sympathetic nervous system inhibitor		4854
+tocopherol		4855
+penis pain		4856
+velaglucerase alfa		4857
+electroconvulsive therapy		4858
+distended stomach		4859
+debridement		4860
+food getting stuck (swallowing)		4861
+thiamine		4862
+durabolin		4863
+genetic sexual development disorders		4864
+desiccated thyroid		4865
+adrucil		4866
+subdural hematoma		4867
+carbamide peroxide		4868
+exenatide		4869
+byetta		4870
+eltrombopag		4871
+decadurabolin		4872
+respiratory tract diseases		4873
+neuroendocrine tumor		4874
+panretin		4875
+activated charcoal		4876
+tinzaparin		4877
+fluocinolone		4878
+gi infections		4879
+double vision (without one eye covered)		4880
+chlorhexidine gluconate		4881
+melanex		4882
+slow k		4883
+poor feeding		4884
+corneal flash burn		4885
+foul taste in mouth		4886
+daptacel		4887
+birth defects		4888
+lacrisert		4889
+anencephaly		4890
+ketek		4891
+relisorm		4892
+romiplostim		4893
+vasodilator		4894
+withdrawal symptoms		4895
+dulera		4896
+increased muscle tone		4897
+elelyso		4898
+aphasia		4899
+aortic coarctation		4900
+weeverfish sting		4901
+bloody diarrhea		4902
+cryptorchidism		4903
+difficulty breathing through nose		4904
+neoplasms		4905
+noisy high pitched breathing		4906
+rotator cuff tear		4907
+lamprene		4908
+torn meniscus		4909
+paranoid schizophrenia		4910
+progeria		4911
+testicular pain		4912
+brinzolamide		4913
+dubin johnson syndrome		4914
+laryngospasm		4915
+pegvisomant		4916
+agriflu		4917
+somnote		4918
+levorphanol tartrate		4919
+urethral stricture		4920
+peridex		4921
+mcl injury		4922
+sulamyd		4923
+toothache		4924
+atelectasis		4925
+imovax rabies		4926
+ceftibuten		4927
+rilpivirine		4928
+fatty stool		4929
+vitamin d   hydroxy		4930
+missed developmental milestones		4931
+doppler ultrasound		4932
+ferrous sulfate		4933
+vibativ		4934
+hiberix		4935
+basal cell		4936
+proton pump inhibitors		4937
+orthopedic surgery		4938
+rogaine		4939
+mania control drug		4940
+neuropsychological testing		4941
+bluish purple rash		4942
+ankle fracture		4943
+heavy menstrual bleeding		4944
+h  blockers		4945
+amphocin		4946
+bipolar disorder in children		4947
+ciprofloxacin and hydrocortisone		4948
+rh incompatibility		4949
+trigeminal neuralgia		4950
+decompression		4951
+increased reflexes		4952
+vancocin		4953
+pulmozyme		4954
+prophylactic antibiotics		4955
+ranibizumab		4956
+angiography		4957
+broken ankle		4958
+de quervain tenosynovitis		4959
+hydralazine and hydrocholorthiazide		4960
+dornase alfa		4961
+carmol scalp treatment		4962
+icing		4963
+ruxolitinib		4964
+adrenal gland disorders		4965
+esophageal manometry		4966
+verruca		4967
+tonsil stones		4968
+kaon		4969
+bleeding disorders		4970
+tolazoline		4971
+ultrasound of liver or gallbladder		4972
+mylanta		4973
+perichondritis		4974
+splenectomy		4975
+preleukemia (myelodysplastic syndrome)		4976
+mycostatin		4977
+foot pain		4978
+tekturna		4979
+heart transplant		4980
+orthovisc		4981
+ciloxan		4982
+loss of taste		4983
+drospirenone and ethinyl estradiol		4984
+baraclude		4985
+black skin discoloration		4986
+severe bleeding after giving birth		4987
+ercp		4988
+mri of chest		4989
+normal pressure hydrocephalus		4990
+trobicin		4991
+brain injury		4992
+recent cough or cold		4993
+retinal disorders		4994
+organ transplant		4995
+sulfacetamide sodium		4996
+low fat diet		4997
+vocal cord polyp		4998
+gluten insensitivity		4999

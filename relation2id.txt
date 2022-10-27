@@ -1,0 +1,19 @@
+18
+tests		0
+medication		1
+conditions_treated		2
+prevalence		3
+generic_name		4
+has_type		5
+side_effect		6
+related_to		7
+risk_factor		8
+brand_name		9
+procedure		10
+drug_class		11
+is_a_type_of		12
+duration		13
+related_medication		14
+preventative		15
+symptom		16
+treatment		17
